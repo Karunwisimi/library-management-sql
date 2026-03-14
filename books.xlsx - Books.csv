@@ -1,0 +1,501 @@
+book_id,title,author,genre,publication_year,total_copies,available_copies,isbn,publisher,book_category,language,shelf_location,created_at,updated_at
+1,Legacy of Shadow,Grace Adeyemi,Technology,2023,30,6,513-4797243342,Hachette,Non-Fiction,Swahili,G7-13,2016-06-01,2016-07-12
+2,Inside Stars,David Smith,Self-Help,1996,23,5,477-9390055550,Penguin Random House,Non-Fiction,Swahili,D4-14,2021-08-08,2022-06-17
+3,Secrets of Innovation,Linda Adeyemi,Mystery,1997,25,20,100-7353116031,HarperCollins,Fiction,French,D4-4,2017-10-22,2018-02-07
+4,Rise of Stars,Grace Okafor,Thriller,2018,11,7,317-1698008332,Cambridge Press,Fiction,Swahili,F6-11,2019-05-10,2020-02-03
+5,Secrets of Power,Linda Adeyemi,Business,2019,31,9,255-8399635933,Scholastic,Non-Fiction,English,F6-1,2022-01-03,2022-05-16
+6,Beyond Future,John Garcia,Business,2010,7,6,895-9711771875,Hachette,Non-Fiction,Swahili,F6-8,2015-04-13,2015-11-25
+7,Rise of Knowledge,James Okafor,Fantasy,2024,26,10,118-9483781475,Penguin Random House,Fiction,Swahili,F6-17,2020-05-11,2021-04-15
+8,Inside Innovation,Sophia Brown,Technology,2007,37,4,951-4788731812,Penguin Random House,Non-Fiction,French,E5-17,2024-04-23,2024-12-23
+9,Legacy of Dreams,James Williams,Thriller,2010,46,20,969-2025385110,Scholastic,Fiction,English,C3-16,2017-12-23,2018-02-27
+10,Legacy of Shadow,Daniel Johnson,Science Fiction,2003,40,10,200-4218960088,Scholastic,Fiction,French,D4-13,2023-10-26,2023-12-25
+11,Chronicles of Mind,Grace Okafor,Biography,2003,40,11,770-9467903552,Cambridge Press,Non-Fiction,French,E5-14,2017-03-28,2017-06-24
+12,Journey to Shadow,Amina Brown,Biography,2017,6,6,278-1202142498,Cambridge Press,Non-Fiction,English,G7-3,2020-09-15,2021-01-23
+13,Rise of Stars,Grace Martins,Self-Help,1996,6,5,525-7741418337,Cambridge Press,Non-Fiction,French,A1-8,2019-09-12,2020-08-26
+14,Rise of Future,Daniel Okafor,Biography,2019,18,15,255-2248382491,Oxford Press,Non-Fiction,Arabic,C3-2,2020-01-26,2020-06-16
+15,Fall of Destiny,David Garcia,Thriller,2022,31,16,502-3196506891,Hachette,Fiction,Arabic,B2-18,2016-03-15,2016-12-09
+16,Legacy of Power,David Williams,Biography,2004,24,22,904-2581815467,Cambridge Press,Non-Fiction,French,F6-14,2019-07-26,2019-09-21
+17,Fall of Dreams,Grace Smith,Thriller,2011,48,44,218-2295892394,Hachette,Fiction,English,G7-18,2018-07-22,2019-04-05
+18,Fall of Destiny,Michael Adeyemi,Biography,1997,11,11,393-6583731293,Macmillan,Non-Fiction,French,B2-8,2019-08-02,2020-03-01
+19,Legacy of Dreams,Grace Martins,Science Fiction,2004,7,7,939-6450681968,Macmillan,Fiction,Arabic,H8-17,2023-07-22,2024-02-06
+20,Inside Shadow,John Williams,Mystery,2005,31,16,997-6891613744,Oxford Press,Fiction,Arabic,D4-10,2023-03-08,2023-05-18
+21,Journey to Innovation,James Mensah,Business,2024,30,21,314-1524292903,Hachette,Non-Fiction,French,H8-16,2019-01-11,2019-04-25
+22,Beyond Knowledge,Michael Brown,Technology,2005,17,13,646-9733089873,Oxford Press,Non-Fiction,English,B2-7,2023-06-28,2024-04-13
+23,Secrets of Innovation,Linda Martins,Biography,2018,39,25,420-9854030928,Macmillan,Non-Fiction,French,E5-19,2019-09-11,2020-02-05
+24,Journey to Innovation,Amina Johnson,Science Fiction,2023,49,28,487-7597626970,HarperCollins,Fiction,French,G7-15,2018-12-16,2019-04-06
+25,Fall of Shadow,Amina Mensah,Technology,2002,19,16,419-4576626741,Macmillan,Non-Fiction,Arabic,C3-9,2018-09-02,2019-01-11
+26,Journey to Knowledge,Michael Okafor,Mystery,2009,35,9,550-2149024867,Hachette,Fiction,English,D4-17,2015-06-08,2015-12-13
+27,Fall of Power,Linda Adeyemi,Biography,2015,5,4,444-1679901496,Hachette,Non-Fiction,Arabic,C3-11,2022-03-20,2022-04-14
+28,The Innovation,Linda Bello,Thriller,2007,10,5,768-6731739163,Macmillan,Fiction,English,B2-15,2024-10-13,2025-03-07
+29,Inside Dreams,John Williams,Self-Help,2012,22,5,174-9486845339,Penguin Random House,Non-Fiction,English,F6-8,2018-07-31,2018-12-31
+30,Fall of Stars,David Adeyemi,Science Fiction,2020,12,8,476-6721690348,HarperCollins,Fiction,French,G7-19,2019-06-05,2019-10-21
+31,Chronicles of Destiny,Amina Mensah,Biography,2002,11,6,606-7818867207,Pearson,Non-Fiction,French,A1-20,2022-04-10,2022-07-24
+32,Return of Destiny,Linda Okafor,Business,2014,15,7,644-5002518902,Cambridge Press,Non-Fiction,Arabic,A1-19,2015-03-10,2015-05-02
+33,Fall of Destiny,John Williams,Thriller,2016,10,5,460-4706848476,Penguin Random House,Fiction,Arabic,H8-6,2024-06-19,2024-07-16
+34,Fall of Innovation,Linda Williams,Self-Help,1998,36,32,568-9493344962,HarperCollins,Non-Fiction,Swahili,F6-11,2017-08-12,2017-12-16
+35,Chronicles of Empire,Michael Bello,Science Fiction,2004,48,12,751-5768459102,Oxford Press,Fiction,English,C3-13,2024-07-22,2025-01-07
+36,Rise of Empire,Grace Bello,Romance,2004,10,8,652-8124977184,Cambridge Press,Fiction,Arabic,C3-14,2023-05-21,2023-08-30
+37,The Dreams,James Williams,Science Fiction,2022,27,14,601-3567264229,Cambridge Press,Fiction,French,B2-14,2022-04-22,2022-05-27
+38,Legacy of Power,Linda Mensah,History,2016,33,31,541-6529981363,Hachette,Non-Fiction,Swahili,H8-11,2024-08-17,2024-10-29
+39,Rise of Stars,David Mensah,Fantasy,2007,50,49,773-5073221198,Pearson,Fiction,French,C3-15,2017-12-20,2018-03-13
+40,Rise of Mind,Amina Martins,Self-Help,2005,22,4,844-2988064341,HarperCollins,Non-Fiction,English,F6-8,2017-07-18,2017-11-07
+41,Legacy of Knowledge,Fatima Smith,Fantasy,2014,41,32,245-3900056949,Cambridge Press,Fiction,Arabic,F6-15,2020-08-21,2020-10-29
+42,Secrets of Power,Grace Smith,Biography,2014,43,19,569-1395200780,Penguin Random House,Non-Fiction,English,C3-12,2017-01-29,2017-05-28
+43,Journey to Stars,Fatima Johnson,Mystery,2020,17,11,189-2588362065,Macmillan,Fiction,English,G7-1,2018-09-14,2018-11-13
+44,Secrets of Stars,James Garcia,Romance,2024,25,12,164-5660977865,Cambridge Press,Fiction,French,H8-4,2022-07-16,2022-11-19
+45,Inside Dreams,Grace Garcia,Self-Help,2024,28,7,454-2591136838,Penguin Random House,Non-Fiction,English,G7-13,2023-02-02,2023-06-02
+46,Return of Mind,Sophia Johnson,Fantasy,2006,32,10,537-1260088464,Hachette,Fiction,English,A1-15,2022-12-11,2023-05-13
+47,Journey to Destiny,Sophia Okafor,Science Fiction,2011,19,10,352-2398542121,Penguin Random House,Fiction,Swahili,A1-7,2015-09-02,2015-12-13
+48,Fall of Dreams,Michael Smith,Biography,2015,44,15,412-9448187154,HarperCollins,Non-Fiction,French,E5-11,2015-09-18,2015-10-13
+49,Rise of Empire,Daniel Bello,Business,2002,7,6,896-1308780166,HarperCollins,Non-Fiction,Arabic,H8-14,2023-10-30,2024-05-20
+50,The Empire,Amina Johnson,History,2008,42,42,458-2510983658,Hachette,Non-Fiction,French,G7-3,2021-05-19,2021-05-26
+51,Secrets of Empire,Daniel Smith,Science Fiction,2005,23,12,237-5903970232,Penguin Random House,Fiction,Arabic,C3-8,2023-06-14,2024-03-16
+52,Legacy of Empire,Sophia Adeyemi,Technology,2023,20,14,331-5218394459,Scholastic,Non-Fiction,English,B2-14,2019-12-09,2020-03-14
+53,Legacy of Knowledge,John Okafor,Science Fiction,2016,30,23,794-9808346007,Pearson,Fiction,Swahili,D4-15,2020-06-01,2020-12-04
+54,The Knowledge,David Garcia,Business,2007,20,12,413-7931865661,HarperCollins,Non-Fiction,Swahili,G7-10,2016-10-01,2017-01-17
+55,Chronicles of Empire,Amina Garcia,History,2023,19,6,953-6752314339,Hachette,Non-Fiction,Arabic,H8-8,2023-03-24,2023-10-09
+56,Legacy of Mind,Grace Mensah,Self-Help,2004,25,16,822-7505100356,Macmillan,Non-Fiction,Arabic,F6-16,2018-09-21,2019-07-01
+57,Legacy of Power,James Williams,Mystery,2010,29,21,930-1118688281,Penguin Random House,Fiction,Arabic,H8-4,2016-11-26,2017-03-20
+58,Return of Future,David Smith,Technology,2007,20,8,168-6399707303,Scholastic,Non-Fiction,Arabic,C3-13,2021-06-17,2021-08-14
+59,Fall of Mind,Linda Bello,Self-Help,2005,47,12,137-3278393266,Scholastic,Non-Fiction,Arabic,F6-20,2018-12-07,2018-12-10
+60,Chronicles of Power,David Bello,History,2017,31,11,558-4166098902,Penguin Random House,Non-Fiction,English,F6-18,2022-08-01,2022-12-28
+61,Beyond Shadow,David Johnson,Fantasy,2002,41,24,334-5336500357,HarperCollins,Fiction,Arabic,F6-18,2016-10-05,2017-06-19
+62,Secrets of Destiny,Sophia Bello,Fantasy,2018,14,4,827-7208988106,Macmillan,Fiction,Swahili,F6-7,2024-02-27,2024-04-16
+63,The Mind,Fatima Garcia,Technology,2007,11,11,969-6951001423,Oxford Press,Non-Fiction,Arabic,H8-12,2018-08-01,2019-03-25
+64,Fall of Knowledge,John Johnson,Thriller,2007,28,24,145-7757201358,Penguin Random House,Fiction,English,D4-16,2020-12-28,2021-08-10
+65,The Stars,David Martins,Romance,1999,44,5,317-6233458238,Macmillan,Fiction,Swahili,H8-16,2015-10-06,2016-05-10
+66,Legacy of Future,Amina Williams,Romance,1995,22,10,764-9113790125,Scholastic,Fiction,Swahili,D4-11,2023-03-04,2023-09-20
+67,Fall of Stars,Michael Johnson,Technology,2001,21,10,123-8069113010,Penguin Random House,Non-Fiction,English,B2-10,2017-09-14,2018-06-16
+68,Chronicles of Future,Fatima Garcia,Thriller,2007,7,6,616-3436334915,HarperCollins,Fiction,French,C3-4,2021-05-02,2021-11-14
+69,Inside Shadow,David Williams,Romance,2011,8,8,696-8839334367,Hachette,Fiction,Arabic,H8-19,2022-05-10,2023-04-26
+70,Fall of Stars,Linda Bello,Mystery,2011,38,20,839-8172905141,HarperCollins,Fiction,Swahili,H8-4,2023-06-03,2024-05-20
+71,The Mind,Sophia Williams,Thriller,2000,18,18,207-5530479508,Macmillan,Fiction,French,C3-6,2024-10-13,2025-03-28
+72,Return of Stars,John Smith,Romance,2000,20,4,502-5286652944,Hachette,Fiction,French,E5-18,2022-07-06,2022-08-30
+73,Beyond Stars,Amina Bello,Biography,2007,20,5,859-2457155937,Cambridge Press,Non-Fiction,Swahili,E5-19,2024-08-02,2025-07-19
+74,Legacy of Dreams,Grace Okafor,Technology,2022,17,17,947-4412278788,Pearson,Non-Fiction,French,B2-6,2024-09-28,2024-10-26
+75,Chronicles of Empire,Linda Bello,Fantasy,2011,23,14,107-5690912281,Penguin Random House,Fiction,English,C3-19,2022-05-06,2022-05-24
+76,Inside Empire,Grace Smith,Self-Help,2010,40,35,187-2019540629,Penguin Random House,Non-Fiction,Arabic,E5-14,2022-03-26,2022-12-26
+77,Beyond Shadow,Sophia Garcia,History,1998,31,27,352-1774082844,Penguin Random House,Non-Fiction,French,D4-20,2019-06-22,2019-08-12
+78,Return of Empire,Sophia Martins,Thriller,2011,42,16,419-9251947539,Scholastic,Fiction,Arabic,D4-11,2021-09-13,2022-06-29
+79,Legacy of Stars,John Okafor,Business,2024,27,5,165-6008400122,Macmillan,Non-Fiction,Arabic,F6-3,2023-02-11,2023-03-12
+80,Inside Dreams,Michael Smith,Self-Help,2000,44,15,177-5348396627,Penguin Random House,Non-Fiction,Swahili,F6-6,2023-11-23,2024-06-20
+81,Journey to Knowledge,Fatima Adeyemi,Romance,2014,47,18,466-1403921975,Hachette,Fiction,Arabic,E5-9,2017-01-08,2017-07-07
+82,Legacy of Empire,Daniel Smith,Romance,2012,15,14,644-7297261434,HarperCollins,Fiction,Swahili,F6-5,2023-09-14,2024-06-04
+83,Fall of Shadow,Fatima Brown,Biography,2012,50,27,480-6820630126,Scholastic,Non-Fiction,Arabic,D4-19,2021-09-25,2022-09-13
+84,Chronicles of Knowledge,James Garcia,History,1999,22,21,675-1459943740,Oxford Press,Non-Fiction,Arabic,G7-13,2023-06-29,2024-01-15
+85,Return of Future,Sophia Okafor,Self-Help,2015,17,13,867-6109219341,Macmillan,Non-Fiction,Arabic,H8-12,2019-03-30,2019-12-02
+86,The Dreams,Linda Garcia,Self-Help,1995,37,18,460-8566589967,Pearson,Non-Fiction,English,B2-14,2023-06-23,2023-09-12
+87,Legacy of Empire,James Garcia,Technology,2015,24,10,160-1255840200,Pearson,Non-Fiction,English,A1-12,2019-03-21,2019-12-07
+88,Journey to Shadow,John Garcia,Science Fiction,2017,24,14,325-9246939654,Oxford Press,Fiction,Arabic,C3-3,2023-07-27,2024-05-10
+89,Secrets of Power,James Martins,Business,2010,40,6,349-9523099321,Penguin Random House,Non-Fiction,English,C3-17,2017-09-09,2018-04-04
+90,Rise of Knowledge,John Bello,Thriller,1995,46,20,574-9495083170,Penguin Random House,Fiction,English,F6-13,2020-05-08,2020-07-12
+91,Secrets of Innovation,Amina Garcia,Mystery,2007,25,13,617-9910937443,Cambridge Press,Fiction,Arabic,B2-17,2015-05-17,2016-05-10
+92,Journey to Power,John Mensah,Science Fiction,2023,17,4,276-7764884715,Scholastic,Fiction,French,G7-17,2024-01-22,2024-10-25
+93,Rise of Future,Daniel Mensah,Business,1996,9,5,290-5738571349,Cambridge Press,Non-Fiction,Arabic,C3-15,2019-03-19,2019-11-01
+94,Chronicles of Mind,Daniel Smith,History,1996,9,4,325-5289404345,Macmillan,Non-Fiction,Swahili,C3-19,2023-04-11,2024-03-26
+95,Return of Power,John Williams,Biography,2016,25,22,987-3438340859,Scholastic,Non-Fiction,Arabic,B2-17,2022-11-02,2023-05-27
+96,The Innovation,Linda Adeyemi,Technology,2005,39,23,711-5195805200,Scholastic,Non-Fiction,Arabic,A1-19,2020-01-12,2020-08-03
+97,Secrets of Innovation,Fatima Smith,History,1996,43,23,773-1823149385,Cambridge Press,Non-Fiction,Swahili,E5-2,2017-03-07,2017-06-23
+98,Fall of Shadow,Sophia Okafor,Business,2008,28,7,148-8433422207,Cambridge Press,Non-Fiction,English,F6-1,2019-03-09,2019-05-13
+99,Secrets of Stars,Linda Okafor,Business,2008,33,17,780-1436084616,HarperCollins,Non-Fiction,Arabic,A1-9,2022-05-28,2022-11-06
+100,Journey to Dreams,Amina Brown,Technology,2021,17,9,672-5453133781,HarperCollins,Non-Fiction,French,F6-4,2016-09-22,2017-07-10
+101,Return of Knowledge,James Brown,Technology,2004,11,4,979-6263852324,HarperCollins,Non-Fiction,French,C3-13,2017-03-19,2017-04-07
+102,Journey to Power,Grace Adeyemi,Mystery,2009,40,4,500-9130704023,Hachette,Fiction,English,G7-2,2021-01-09,2021-11-12
+103,Secrets of Future,Grace Adeyemi,Thriller,1997,29,25,736-1735157360,Macmillan,Fiction,Swahili,H8-7,2018-01-29,2018-06-24
+104,Legacy of Future,Daniel Williams,Fantasy,1997,38,22,449-8643865142,Hachette,Fiction,English,G7-2,2019-01-17,2019-11-14
+105,Legacy of Power,Fatima Johnson,Science Fiction,1996,9,4,241-8033549151,HarperCollins,Fiction,English,D4-11,2017-03-27,2017-12-25
+106,Fall of Innovation,John Mensah,Biography,1997,14,14,959-1059744616,Penguin Random House,Non-Fiction,French,C3-15,2018-02-17,2018-07-27
+107,Rise of Knowledge,James Brown,Business,2017,27,15,553-6782113499,Oxford Press,Non-Fiction,Arabic,H8-14,2019-05-12,2019-10-04
+108,Rise of Empire,David Garcia,Thriller,2022,31,8,413-5379274413,Cambridge Press,Fiction,Swahili,D4-6,2024-10-07,2025-02-27
+109,Fall of Future,Grace Martins,History,2010,32,12,848-5831206768,HarperCollins,Non-Fiction,Swahili,G7-5,2017-12-09,2018-08-23
+110,Rise of Future,Linda Okafor,History,2007,49,31,197-2714495448,Scholastic,Non-Fiction,Swahili,B2-5,2020-02-02,2020-04-23
+111,The Future,David Bello,Biography,2000,20,8,965-3859396025,Hachette,Non-Fiction,English,H8-9,2015-10-27,2015-12-31
+112,Beyond Innovation,James Martins,Biography,1998,25,6,671-6807632614,Macmillan,Non-Fiction,Arabic,G7-8,2018-12-12,2019-10-14
+113,Beyond Stars,Sophia Smith,Fantasy,2022,15,15,104-1590839259,Hachette,Fiction,English,A1-18,2022-04-07,2022-08-07
+114,Chronicles of Mind,Michael Johnson,Romance,2010,17,12,953-1701930359,Pearson,Fiction,French,G7-12,2019-01-30,2019-06-13
+115,Fall of Stars,John Johnson,Technology,2021,27,23,285-8904629394,Penguin Random House,Non-Fiction,Arabic,F6-13,2016-08-03,2016-09-21
+116,Beyond Innovation,James Johnson,Thriller,2015,23,16,544-4126263512,Cambridge Press,Fiction,Arabic,F6-17,2020-06-14,2020-12-03
+117,The Destiny,Sophia Smith,Science Fiction,2006,49,48,731-3887349427,Hachette,Fiction,French,G7-3,2020-02-24,2020-09-27
+118,Legacy of Innovation,Sophia Okafor,Business,2004,23,10,668-7855333016,HarperCollins,Non-Fiction,Swahili,F6-1,2018-09-03,2019-07-11
+119,Beyond Mind,Linda Brown,Fantasy,2008,23,9,124-1464168543,Macmillan,Fiction,French,B2-2,2018-04-01,2018-05-24
+120,Secrets of Empire,Grace Smith,Thriller,1996,33,5,596-9298860561,HarperCollins,Fiction,Swahili,E5-9,2022-05-09,2022-08-30
+121,Return of Dreams,David Mensah,Mystery,2003,10,5,704-6828717950,Oxford Press,Fiction,Swahili,A1-12,2016-04-23,2016-07-02
+122,Fall of Stars,Daniel Garcia,Mystery,2019,29,20,232-2725234165,Cambridge Press,Fiction,Arabic,F6-7,2018-08-27,2018-12-11
+123,Rise of Innovation,David Garcia,Mystery,2008,20,16,476-5033135338,Penguin Random House,Fiction,English,C3-18,2016-02-27,2016-04-01
+124,Secrets of Knowledge,James Johnson,Technology,2004,39,6,686-7811508665,Oxford Press,Non-Fiction,Swahili,H8-17,2024-05-23,2024-10-08
+125,The Shadow,Fatima Mensah,Science Fiction,2016,23,5,974-6437602354,Macmillan,Fiction,English,D4-8,2023-04-03,2023-10-11
+126,Legacy of Future,David Adeyemi,Romance,2018,14,5,596-4475869315,Oxford Press,Fiction,French,D4-11,2016-03-16,2016-04-15
+127,The Knowledge,James Brown,Biography,2020,14,4,407-2242547169,HarperCollins,Non-Fiction,Swahili,C3-7,2023-01-04,2023-02-14
+128,Fall of Mind,Amina Adeyemi,Science Fiction,2017,20,20,834-4154727120,Oxford Press,Fiction,Swahili,E5-11,2015-01-04,2015-08-01
+129,Chronicles of Knowledge,Fatima Mensah,Romance,2023,49,20,564-3771783077,Macmillan,Fiction,Arabic,C3-18,2019-08-06,2020-02-29
+130,Chronicles of Future,Daniel Bello,Mystery,2007,35,20,369-2853466909,HarperCollins,Fiction,English,D4-20,2015-01-05,2015-09-08
+131,Journey to Knowledge,Daniel Smith,Business,2023,45,35,948-7001129001,Penguin Random House,Non-Fiction,Swahili,H8-7,2023-06-23,2023-08-31
+132,Rise of Knowledge,John Martins,Technology,2002,11,4,677-8489692884,Cambridge Press,Non-Fiction,Swahili,A1-16,2016-06-24,2017-04-13
+133,Fall of Empire,Grace Mensah,History,2012,6,4,717-4422940823,Pearson,Non-Fiction,Arabic,H8-18,2023-05-20,2023-08-25
+134,Beyond Destiny,John Okafor,Science Fiction,2008,25,17,329-5834624315,Hachette,Fiction,Arabic,F6-13,2024-07-04,2025-03-04
+135,Rise of Future,John Martins,History,1998,23,12,495-5580784363,Macmillan,Non-Fiction,French,G7-14,2017-10-07,2018-02-06
+136,Inside Shadow,Sophia Brown,Thriller,2018,41,6,878-1035372177,Penguin Random House,Fiction,English,B2-17,2020-06-22,2020-07-01
+137,Beyond Destiny,John Johnson,Science Fiction,2003,40,25,497-9520421234,Cambridge Press,Fiction,Arabic,G7-13,2015-10-28,2016-02-22
+138,Legacy of Stars,Michael Bello,Science Fiction,2005,38,12,940-4462182118,Scholastic,Fiction,Swahili,B2-8,2022-12-08,2023-06-03
+139,Journey to Mind,Michael Adeyemi,Biography,2008,7,6,122-4913400034,HarperCollins,Non-Fiction,Arabic,G7-1,2018-06-30,2019-03-25
+140,Inside Innovation,David Smith,Technology,2006,11,8,387-4409286577,Cambridge Press,Non-Fiction,Swahili,D4-5,2024-10-10,2024-11-23
+141,Beyond Future,Michael Johnson,Self-Help,2019,34,7,130-7835599415,Pearson,Non-Fiction,Swahili,F6-13,2015-06-25,2016-04-23
+142,The Empire,Daniel Okafor,Technology,2000,24,18,457-6544575956,HarperCollins,Non-Fiction,French,D4-5,2024-12-28,2025-04-27
+143,Journey to Destiny,Grace Adeyemi,Biography,2007,36,6,916-1542413383,Macmillan,Non-Fiction,English,B2-10,2021-11-08,2021-11-26
+144,Fall of Mind,Sophia Johnson,Science Fiction,2015,14,6,850-6308813809,Macmillan,Fiction,Swahili,D4-6,2018-09-29,2018-11-15
+145,The Future,James Okafor,Fantasy,2021,38,36,393-5068323252,Scholastic,Fiction,English,F6-7,2020-05-27,2020-09-05
+146,The Empire,James Johnson,Business,2002,16,16,965-9440969258,Macmillan,Non-Fiction,French,A1-8,2016-10-24,2017-04-21
+147,Chronicles of Innovation,Fatima Adeyemi,Biography,1997,19,13,243-2653785389,Penguin Random House,Non-Fiction,English,D4-9,2021-10-11,2022-09-23
+148,Rise of Dreams,Michael Garcia,Technology,2010,33,12,940-2136782397,Cambridge Press,Non-Fiction,French,C3-14,2024-08-02,2024-10-04
+149,Return of Shadow,David Mensah,Romance,2001,36,35,912-9732791308,Hachette,Fiction,Swahili,C3-16,2024-01-09,2024-10-11
+150,Legacy of Innovation,Linda Brown,Thriller,2024,15,8,410-4355057730,HarperCollins,Fiction,Arabic,F6-4,2016-06-16,2017-05-18
+151,Return of Knowledge,Michael Smith,Business,2021,50,46,318-8184207824,Scholastic,Non-Fiction,English,B2-7,2018-03-18,2018-08-22
+152,Legacy of Destiny,Linda Brown,Business,2015,21,8,761-6124169689,HarperCollins,Non-Fiction,Swahili,E5-9,2024-05-14,2024-12-23
+153,Secrets of Shadow,John Mensah,Science Fiction,1997,27,27,748-3085129237,Hachette,Fiction,Arabic,B2-3,2022-08-25,2023-03-25
+154,Journey to Innovation,Amina Johnson,Romance,2012,8,6,160-2024534352,Oxford Press,Fiction,Arabic,G7-6,2015-03-19,2015-12-13
+155,Fall of Empire,Daniel Smith,Thriller,1999,27,24,565-3703650390,Cambridge Press,Fiction,Swahili,D4-19,2021-02-12,2021-06-12
+156,Inside Knowledge,Sophia Garcia,Science Fiction,2015,15,5,665-8266778745,Scholastic,Fiction,Swahili,E5-6,2024-09-19,2025-08-17
+157,Rise of Stars,Fatima Martins,Business,2020,17,12,265-6558496721,Scholastic,Non-Fiction,English,G7-11,2018-09-15,2018-12-13
+158,Inside Innovation,Grace Smith,Technology,2018,27,6,491-3603664187,Cambridge Press,Non-Fiction,French,E5-12,2018-03-25,2019-02-15
+159,Fall of Dreams,Amina Mensah,Business,2024,34,19,498-3028156646,Pearson,Non-Fiction,Arabic,C3-12,2018-01-08,2018-02-06
+160,Secrets of Power,Fatima Bello,Mystery,2006,43,30,999-5579568122,Hachette,Fiction,French,G7-3,2019-11-03,2020-06-18
+161,Beyond Power,Sophia Brown,Biography,2002,46,28,770-4904720883,Oxford Press,Non-Fiction,Arabic,A1-6,2020-04-16,2021-01-08
+162,Rise of Shadow,Michael Johnson,Science Fiction,2008,50,36,928-7298504992,Macmillan,Fiction,Arabic,C3-16,2021-12-24,2022-10-15
+163,Secrets of Innovation,James Smith,Self-Help,2011,45,17,311-2298376452,Hachette,Non-Fiction,English,A1-9,2019-09-21,2020-06-27
+164,Beyond Knowledge,Michael Smith,Romance,2013,42,15,664-6054045839,Cambridge Press,Fiction,Swahili,A1-8,2022-04-24,2022-12-22
+165,Fall of Power,John Williams,Mystery,2004,49,31,917-2723646145,Oxford Press,Fiction,French,E5-20,2024-05-16,2024-05-18
+166,Rise of Empire,Sophia Johnson,Biography,2016,8,4,384-6199113473,Penguin Random House,Non-Fiction,French,F6-18,2016-07-24,2016-10-14
+167,Journey to Destiny,David Adeyemi,Biography,2017,8,8,965-3377247345,Cambridge Press,Non-Fiction,French,C3-14,2020-09-07,2021-04-20
+168,Journey to Knowledge,Fatima Brown,Fantasy,2007,8,6,501-8499633444,Oxford Press,Fiction,Swahili,F6-12,2015-08-29,2016-08-21
+169,Fall of Dreams,Linda Smith,Business,2011,38,27,437-8323172865,Cambridge Press,Non-Fiction,Swahili,D4-15,2020-09-30,2021-02-28
+170,Inside Stars,Sophia Williams,Thriller,2002,16,8,163-4400508381,Oxford Press,Fiction,Arabic,H8-4,2024-02-01,2024-10-29
+171,Return of Mind,Amina Williams,History,2019,47,31,635-7256832098,Pearson,Non-Fiction,French,B2-14,2015-12-13,2016-07-22
+172,Secrets of Knowledge,Daniel Bello,Biography,2011,22,12,117-5132084029,Oxford Press,Non-Fiction,French,B2-3,2016-06-10,2017-02-19
+173,Inside Shadow,David Garcia,Mystery,2023,46,42,328-2040441253,HarperCollins,Fiction,Swahili,C3-9,2019-01-30,2019-03-06
+174,Fall of Knowledge,Daniel Adeyemi,Thriller,2005,24,9,553-3237278441,Hachette,Fiction,Swahili,B2-13,2016-06-19,2016-09-27
+175,Journey to Dreams,Daniel Okafor,History,1995,26,4,432-9577174252,Scholastic,Non-Fiction,Arabic,B2-15,2016-08-11,2016-08-18
+176,Inside Mind,Linda Bello,Biography,2003,25,10,792-1487433366,Cambridge Press,Non-Fiction,French,G7-12,2024-07-22,2024-07-29
+177,Inside Power,Grace Garcia,Technology,2000,45,25,746-5995959286,Hachette,Non-Fiction,Swahili,D4-14,2019-10-07,2020-07-30
+178,Return of Shadow,Fatima Brown,Technology,2002,26,24,605-3901236552,Scholastic,Non-Fiction,Arabic,B2-4,2017-07-11,2018-01-25
+179,Chronicles of Dreams,Linda Johnson,Self-Help,2005,43,25,902-4706893759,Macmillan,Non-Fiction,Swahili,B2-9,2018-04-11,2018-09-24
+180,Beyond Empire,Grace Adeyemi,Thriller,2002,13,11,776-3152706667,Oxford Press,Fiction,French,C3-10,2016-11-21,2017-10-25
+181,Inside Empire,Daniel Johnson,Self-Help,2010,44,10,487-4034879840,Hachette,Non-Fiction,French,C3-6,2019-05-13,2020-04-17
+182,Rise of Mind,Linda Johnson,Self-Help,1997,13,12,409-3381044989,Penguin Random House,Non-Fiction,English,F6-10,2022-09-09,2023-04-08
+183,Fall of Empire,Daniel Brown,Technology,2001,30,23,324-6852688786,Oxford Press,Non-Fiction,Arabic,B2-8,2016-09-17,2017-07-28
+184,Inside Future,Amina Johnson,Mystery,2022,27,4,308-5607243186,Hachette,Fiction,French,E5-7,2023-05-26,2023-12-30
+185,Secrets of Innovation,Michael Williams,Thriller,2014,11,9,580-7091553179,Penguin Random House,Fiction,French,C3-4,2015-12-01,2016-07-06
+186,Rise of Destiny,Linda Johnson,Thriller,1996,36,31,965-2471726381,Cambridge Press,Fiction,Swahili,E5-15,2017-03-31,2017-08-12
+187,Rise of Shadow,Fatima Brown,Science Fiction,2001,49,44,882-8762965971,HarperCollins,Fiction,French,B2-1,2017-04-14,2018-02-12
+188,Inside Destiny,Daniel Bello,Thriller,2017,6,6,978-6718931697,Macmillan,Fiction,English,F6-15,2022-12-15,2023-05-31
+189,Return of Power,Sophia Martins,Fantasy,2022,29,29,385-1167954766,Cambridge Press,Fiction,English,D4-10,2023-10-11,2024-03-23
+190,The Innovation,David Bello,Technology,2024,18,15,407-4690858042,HarperCollins,Non-Fiction,Swahili,C3-14,2017-07-07,2017-12-22
+191,Journey to Dreams,Michael Martins,Thriller,2024,22,7,677-4129457192,Penguin Random House,Fiction,English,C3-20,2023-04-07,2023-11-14
+192,Legacy of Innovation,Fatima Smith,Technology,2005,43,17,269-8739340991,Cambridge Press,Non-Fiction,French,H8-15,2017-05-17,2017-07-06
+193,Rise of Knowledge,David Adeyemi,Biography,2018,22,9,927-5075686906,Pearson,Non-Fiction,Swahili,C3-17,2020-01-26,2020-02-17
+194,Fall of Innovation,Sophia Adeyemi,History,2014,47,45,107-2215949230,Hachette,Non-Fiction,English,A1-8,2020-12-15,2021-08-21
+195,Beyond Future,Michael Bello,Fantasy,1996,20,18,664-2197496673,Penguin Random House,Fiction,Arabic,F6-15,2024-02-10,2024-03-16
+196,Inside Power,David Mensah,Self-Help,2017,20,18,970-5425181514,HarperCollins,Non-Fiction,English,A1-20,2024-06-28,2025-03-25
+197,Beyond Innovation,Linda Johnson,History,2013,30,16,404-3378338089,Hachette,Non-Fiction,French,D4-11,2022-12-19,2023-06-17
+198,Beyond Mind,Michael Williams,History,2022,30,23,407-5386923746,Pearson,Non-Fiction,English,G7-18,2019-04-30,2020-02-21
+199,Secrets of Dreams,John Smith,Biography,2001,49,22,997-4089491290,HarperCollins,Non-Fiction,Swahili,H8-15,2019-08-04,2019-11-17
+200,Inside Innovation,Daniel Mensah,History,1998,12,10,257-1353673987,Hachette,Non-Fiction,English,B2-17,2015-09-07,2015-11-02
+201,Secrets of Power,Daniel Smith,History,2017,35,28,661-4361210950,Pearson,Non-Fiction,Arabic,C3-3,2024-10-24,2025-03-06
+202,Fall of Destiny,Amina Brown,Self-Help,2021,8,7,779-9138832066,Oxford Press,Non-Fiction,English,G7-2,2020-12-25,2021-09-18
+203,Journey to Power,Michael Adeyemi,Self-Help,2011,17,7,886-5546035618,Oxford Press,Non-Fiction,Arabic,H8-18,2018-11-23,2019-04-14
+204,Return of Destiny,John Johnson,Self-Help,2004,50,36,254-1878574317,HarperCollins,Non-Fiction,Swahili,A1-5,2020-03-30,2021-03-27
+205,The Stars,Grace Brown,Technology,2012,9,9,532-7840026402,Penguin Random House,Non-Fiction,Arabic,A1-15,2021-01-26,2021-12-22
+206,Fall of Shadow,Linda Mensah,Mystery,2023,21,14,765-2530961836,Scholastic,Fiction,French,D4-16,2015-11-23,2015-12-29
+207,Return of Innovation,Linda Brown,History,2005,48,25,579-6027970990,Hachette,Non-Fiction,English,F6-15,2022-11-05,2023-02-25
+208,Secrets of Stars,John Mensah,Self-Help,2003,39,11,452-7338824524,Penguin Random House,Non-Fiction,Arabic,C3-2,2016-07-03,2017-04-30
+209,Chronicles of Future,Michael Garcia,Mystery,2013,22,19,711-2860215504,Oxford Press,Fiction,English,D4-13,2018-07-18,2018-09-27
+210,Fall of Innovation,Grace Adeyemi,Fantasy,2023,18,15,398-3422644022,HarperCollins,Fiction,Arabic,H8-9,2017-10-09,2018-05-05
+211,Inside Destiny,Michael Mensah,Science Fiction,2009,15,11,644-9320716414,Penguin Random House,Fiction,French,E5-10,2018-07-19,2019-05-15
+212,Rise of Shadow,Grace Williams,Business,2015,49,40,310-3143530851,Hachette,Non-Fiction,Swahili,H8-3,2021-01-14,2021-06-30
+213,Rise of Shadow,David Brown,Romance,2014,20,10,745-8723196008,HarperCollins,Fiction,French,A1-16,2015-03-02,2015-08-26
+214,Legacy of Shadow,David Mensah,History,2008,49,42,714-3660634798,Macmillan,Non-Fiction,Arabic,G7-3,2015-06-01,2016-03-28
+215,The Dreams,John Bello,Thriller,2008,40,4,908-6695287685,Pearson,Fiction,English,H8-11,2020-04-01,2021-01-02
+216,Fall of Power,Grace Smith,Biography,1999,30,28,461-3079279033,Cambridge Press,Non-Fiction,French,G7-10,2019-06-12,2020-02-28
+217,Beyond Power,Grace Mensah,Science Fiction,2024,39,34,526-7740338988,HarperCollins,Fiction,Arabic,H8-2,2017-06-20,2017-12-14
+218,Rise of Mind,James Martins,Biography,2004,23,19,767-4043201582,Oxford Press,Non-Fiction,French,C3-5,2021-05-05,2021-09-21
+219,The Dreams,Amina Smith,Technology,2014,17,15,335-4849296682,HarperCollins,Non-Fiction,Swahili,F6-20,2015-07-22,2016-07-03
+220,Beyond Dreams,John Johnson,Thriller,2020,21,16,312-4737359890,Hachette,Fiction,Swahili,D4-18,2023-05-10,2023-07-07
+221,Beyond Innovation,Linda Johnson,Science Fiction,2000,40,28,212-9105695629,HarperCollins,Fiction,Swahili,B2-15,2015-10-22,2016-03-01
+222,Return of Destiny,Linda Adeyemi,Biography,2006,28,9,885-5608413768,Scholastic,Non-Fiction,Arabic,A1-15,2022-11-27,2023-11-13
+223,Beyond Knowledge,Fatima Martins,Fantasy,2009,28,5,359-9507979483,Scholastic,Fiction,Swahili,G7-17,2024-02-22,2025-01-29
+224,Beyond Stars,John Williams,Romance,2020,47,30,520-1408274567,Penguin Random House,Fiction,French,G7-6,2017-12-11,2018-12-04
+225,The Stars,James Johnson,Self-Help,1999,7,4,774-5144369692,Penguin Random House,Non-Fiction,Swahili,F6-20,2015-04-19,2015-11-12
+226,Rise of Destiny,Daniel Garcia,Business,2009,12,7,511-7470683848,Penguin Random House,Non-Fiction,English,H8-20,2015-11-26,2016-06-20
+227,Return of Mind,Daniel Garcia,Business,2011,9,8,843-4406280947,Scholastic,Non-Fiction,Swahili,D4-3,2022-10-12,2023-03-05
+228,Inside Empire,John Smith,Thriller,2023,11,10,493-9223870155,Pearson,Fiction,Swahili,C3-10,2021-11-20,2022-07-19
+229,The Innovation,Linda Mensah,Mystery,2000,8,4,722-2722288540,HarperCollins,Fiction,Arabic,G7-6,2018-02-28,2018-11-29
+230,Chronicles of Innovation,Fatima Johnson,History,2012,16,10,805-2166518416,Cambridge Press,Non-Fiction,Arabic,G7-6,2018-09-07,2019-02-13
+231,Inside Mind,Sophia Okafor,Self-Help,2004,12,6,615-6517382286,Hachette,Non-Fiction,English,C3-14,2024-02-26,2024-04-03
+232,Return of Future,John Martins,Fantasy,2023,31,29,445-5973568857,Oxford Press,Fiction,Arabic,H8-4,2016-12-31,2017-03-19
+233,Journey to Power,Amina Okafor,Biography,2014,19,9,229-2485095874,Cambridge Press,Non-Fiction,Swahili,C3-15,2017-10-06,2017-11-23
+234,Rise of Stars,Fatima Adeyemi,Technology,2005,21,15,200-2141767424,HarperCollins,Non-Fiction,French,E5-2,2018-01-05,2018-11-14
+235,Chronicles of Dreams,Amina Brown,Biography,2013,21,4,991-1515096917,Scholastic,Non-Fiction,Swahili,H8-11,2015-12-21,2016-11-24
+236,The Innovation,Daniel Bello,History,2016,44,23,532-8215250903,Scholastic,Non-Fiction,English,H8-19,2021-04-08,2022-04-02
+237,Secrets of Empire,Amina Johnson,History,1997,25,15,538-3516336067,Hachette,Non-Fiction,English,G7-5,2023-03-22,2024-03-01
+238,Return of Mind,Amina Bello,Business,2001,5,4,484-5577282724,Penguin Random House,Non-Fiction,English,D4-12,2016-05-09,2017-03-27
+239,Rise of Empire,Amina Brown,History,2016,8,7,672-5201564156,Penguin Random House,Non-Fiction,Arabic,E5-10,2018-01-25,2018-05-18
+240,Fall of Innovation,Linda Johnson,History,2010,45,5,118-8406203127,Hachette,Non-Fiction,Arabic,G7-3,2017-09-27,2018-07-23
+241,Rise of Future,Grace Martins,Mystery,2011,27,26,378-9897155241,Penguin Random House,Fiction,Swahili,H8-15,2016-07-16,2016-08-01
+242,Legacy of Dreams,Michael Mensah,Self-Help,1999,24,10,458-8278024413,Oxford Press,Non-Fiction,French,D4-9,2016-09-30,2017-09-29
+243,Legacy of Destiny,Fatima Martins,Biography,2006,39,38,778-7559359734,Cambridge Press,Non-Fiction,English,H8-5,2021-01-13,2021-08-29
+244,The Empire,Sophia Okafor,Technology,1996,32,11,570-1557177476,HarperCollins,Non-Fiction,Arabic,F6-13,2017-05-17,2018-01-15
+245,Inside Future,John Mensah,Thriller,2016,42,29,601-9189067088,Macmillan,Fiction,French,H8-12,2023-05-20,2024-04-06
+246,Legacy of Innovation,Fatima Garcia,Self-Help,2000,37,23,471-8189294097,Macmillan,Non-Fiction,Arabic,G7-19,2024-03-30,2024-04-24
+247,The Stars,Grace Adeyemi,History,2014,5,5,347-2191465816,HarperCollins,Non-Fiction,French,B2-6,2015-09-30,2015-11-20
+248,Rise of Power,Amina Johnson,Fantasy,2009,22,20,893-4223915035,Cambridge Press,Fiction,Swahili,C3-18,2020-12-06,2021-02-26
+249,Secrets of Power,Linda Johnson,Fantasy,2005,6,4,476-7230293024,Penguin Random House,Fiction,Arabic,C3-20,2016-07-31,2017-04-21
+250,Legacy of Innovation,John Bello,Self-Help,1999,29,24,256-4381010050,Hachette,Non-Fiction,French,E5-2,2015-05-03,2016-02-03
+251,Chronicles of Stars,Daniel Johnson,Science Fiction,2014,27,5,971-4833462270,HarperCollins,Fiction,Swahili,E5-2,2019-05-31,2019-12-13
+252,Legacy of Empire,Michael Bello,Fantasy,1997,42,14,558-8685860348,Penguin Random House,Fiction,Swahili,H8-19,2017-03-25,2017-09-28
+253,Inside Destiny,Fatima Okafor,Romance,2005,39,35,436-3605987371,Scholastic,Fiction,English,B2-2,2024-01-10,2024-04-17
+254,Rise of Shadow,Sophia Bello,Mystery,1996,46,9,922-4341660340,Cambridge Press,Fiction,French,F6-3,2018-06-06,2018-11-07
+255,Chronicles of Mind,Grace Williams,Fantasy,2003,11,10,512-8658031047,Hachette,Fiction,English,G7-1,2024-09-23,2025-01-07
+256,Legacy of Knowledge,Amina Martins,History,2006,9,8,774-9373333572,HarperCollins,Non-Fiction,French,A1-8,2017-07-05,2018-06-15
+257,Secrets of Power,Linda Williams,Technology,2016,13,4,137-8902093146,Hachette,Non-Fiction,French,C3-6,2024-01-09,2024-10-04
+258,Legacy of Mind,John Smith,Technology,2002,31,25,542-1926702485,HarperCollins,Non-Fiction,Swahili,E5-13,2016-01-11,2016-04-19
+259,The Mind,David Okafor,Self-Help,2011,12,4,880-6574081925,Macmillan,Non-Fiction,English,E5-15,2024-12-23,2025-10-22
+260,Inside Empire,Fatima Williams,Biography,2007,5,5,395-1368521365,HarperCollins,Non-Fiction,Arabic,A1-2,2021-06-09,2022-05-29
+261,Legacy of Future,Grace Williams,Science Fiction,2008,16,6,432-1252141333,Macmillan,Fiction,Swahili,E5-15,2017-10-22,2018-04-20
+262,Chronicles of Stars,James Johnson,Romance,2006,47,7,857-7133069103,Scholastic,Fiction,Arabic,F6-15,2015-11-13,2016-08-06
+263,Rise of Knowledge,Daniel Brown,Science Fiction,2014,37,5,106-7160359675,Macmillan,Fiction,Swahili,B2-1,2019-08-24,2020-05-06
+264,Fall of Destiny,Michael Martins,Thriller,2014,29,21,182-8745433948,HarperCollins,Fiction,Arabic,B2-5,2021-10-06,2022-04-10
+265,The Innovation,David Mensah,Biography,1995,8,4,208-4110372472,Oxford Press,Non-Fiction,Arabic,E5-15,2020-10-08,2021-01-15
+266,Rise of Destiny,John Okafor,Self-Help,2009,6,4,888-3793728130,Scholastic,Non-Fiction,Arabic,F6-2,2019-07-04,2019-08-11
+267,Inside Dreams,Daniel Bello,Self-Help,2021,26,12,420-6177838300,HarperCollins,Non-Fiction,Arabic,F6-10,2021-03-09,2022-02-26
+268,Chronicles of Innovation,Amina Martins,Mystery,2009,41,5,315-8570352075,Macmillan,Fiction,French,C3-7,2024-03-14,2024-12-05
+269,Rise of Shadow,Grace Martins,Biography,2017,40,22,792-5209341292,Hachette,Non-Fiction,Arabic,H8-12,2022-03-27,2022-12-25
+270,Secrets of Empire,Daniel Johnson,Biography,2010,46,30,415-6571462348,Penguin Random House,Non-Fiction,English,G7-9,2024-10-27,2025-01-08
+271,Legacy of Destiny,Sophia Okafor,Romance,2021,34,23,796-4357433692,HarperCollins,Fiction,Arabic,A1-7,2024-02-28,2024-03-12
+272,Legacy of Innovation,David Garcia,Technology,2023,18,6,705-3908109220,Cambridge Press,Non-Fiction,Swahili,B2-8,2019-07-09,2019-10-05
+273,Chronicles of Innovation,Michael Johnson,Thriller,2024,41,12,741-2968535672,HarperCollins,Fiction,Swahili,H8-20,2018-03-14,2019-02-16
+274,Chronicles of Dreams,Daniel Williams,Mystery,2021,12,8,440-1766359290,Macmillan,Fiction,English,E5-9,2018-10-21,2019-08-20
+275,Return of Empire,Linda Brown,Romance,2007,33,8,780-2746215022,HarperCollins,Fiction,Arabic,D4-9,2018-06-01,2018-11-25
+276,The Shadow,David Martins,Fantasy,2011,24,9,933-7836052873,Macmillan,Fiction,Arabic,C3-18,2022-06-08,2023-04-05
+277,Journey to Mind,David Brown,Self-Help,2012,48,18,161-9234889884,Macmillan,Non-Fiction,Swahili,A1-9,2019-07-22,2020-02-14
+278,Journey to Knowledge,David Johnson,Romance,2007,14,5,473-3487467037,Penguin Random House,Fiction,Swahili,B2-10,2019-02-03,2019-04-21
+279,Chronicles of Knowledge,John Brown,Science Fiction,2004,25,13,989-5416774073,Cambridge Press,Fiction,Swahili,E5-14,2022-08-13,2022-08-19
+280,Beyond Destiny,Michael Bello,Technology,2020,28,18,100-8956926985,Scholastic,Non-Fiction,Swahili,A1-14,2019-03-22,2019-06-23
+281,Chronicles of Mind,Grace Garcia,History,2004,21,6,155-7080717550,HarperCollins,Non-Fiction,French,H8-15,2020-05-19,2021-01-26
+282,Return of Dreams,Fatima Williams,Biography,2011,33,23,793-8613459806,Scholastic,Non-Fiction,Swahili,E5-10,2023-09-12,2024-08-14
+283,Legacy of Knowledge,Michael Johnson,Biography,2008,33,17,825-6851120263,Hachette,Non-Fiction,French,G7-6,2020-07-17,2021-01-01
+284,Legacy of Knowledge,Fatima Smith,Biography,1996,32,15,930-1630673728,Cambridge Press,Non-Fiction,Arabic,C3-5,2019-06-21,2019-09-23
+285,The Empire,John Williams,Self-Help,1996,44,5,560-9892923397,HarperCollins,Non-Fiction,Arabic,A1-2,2019-10-30,2020-02-23
+286,Secrets of Empire,Linda Mensah,Business,2024,23,11,592-2382620732,Cambridge Press,Non-Fiction,Swahili,F6-9,2019-01-27,2020-01-25
+287,Journey to Shadow,James Smith,Mystery,2019,13,10,587-6096799421,Cambridge Press,Fiction,English,E5-16,2021-03-19,2022-01-27
+288,Return of Mind,Michael Smith,History,2009,21,8,117-6028327566,Macmillan,Non-Fiction,French,D4-2,2023-11-25,2024-08-12
+289,Secrets of Future,John Smith,Technology,2018,42,23,191-9502950724,Pearson,Non-Fiction,Swahili,F6-8,2023-01-22,2023-06-26
+290,Journey to Mind,Grace Mensah,Mystery,2024,6,6,833-5942273233,Penguin Random House,Fiction,French,F6-14,2020-09-17,2021-06-21
+291,Journey to Knowledge,Linda Johnson,Thriller,2006,46,31,169-1859842385,HarperCollins,Fiction,English,E5-1,2019-04-19,2019-09-01
+292,Journey to Power,Amina Martins,History,2021,12,12,551-9820535923,Scholastic,Non-Fiction,Swahili,E5-1,2023-05-26,2023-06-18
+293,Chronicles of Dreams,Daniel Williams,Mystery,2019,12,6,779-5071829589,Hachette,Fiction,French,A1-10,2016-03-22,2016-07-07
+294,Return of Knowledge,John Johnson,Mystery,2005,13,4,477-1003035238,Oxford Press,Fiction,French,C3-2,2023-03-30,2024-03-06
+295,Fall of Power,David Smith,Biography,2002,50,43,706-4823752025,HarperCollins,Non-Fiction,English,C3-15,2019-06-02,2020-04-05
+296,Inside Mind,John Mensah,Self-Help,2008,47,34,622-1351176147,HarperCollins,Non-Fiction,English,E5-13,2017-05-10,2017-09-26
+297,Chronicles of Power,Fatima Johnson,Fantasy,2018,15,6,837-4698327551,Macmillan,Fiction,Arabic,E5-14,2021-07-07,2021-12-17
+298,Legacy of Knowledge,Daniel Smith,History,2011,38,11,398-1891503495,Cambridge Press,Non-Fiction,French,G7-8,2020-10-26,2021-02-19
+299,Secrets of Knowledge,David Mensah,Business,2008,10,9,624-1150504228,Scholastic,Non-Fiction,Arabic,E5-20,2018-07-25,2018-08-25
+300,The Dreams,John Bello,Self-Help,2000,27,7,564-5729566424,Hachette,Non-Fiction,English,E5-3,2019-03-12,2019-10-20
+301,Beyond Dreams,John Adeyemi,History,2021,38,20,505-2668368455,Scholastic,Non-Fiction,English,G7-3,2022-09-22,2023-07-22
+302,Chronicles of Stars,Sophia Bello,Romance,2016,12,11,528-4091747957,Scholastic,Fiction,French,F6-19,2018-09-06,2018-12-08
+303,Secrets of Innovation,Linda Smith,Thriller,1996,21,14,992-8498156516,HarperCollins,Fiction,Swahili,E5-16,2016-05-17,2017-03-26
+304,Rise of Empire,John Bello,Thriller,2013,43,33,693-5577590835,HarperCollins,Fiction,Arabic,F6-7,2016-03-14,2016-09-13
+305,Journey to Stars,John Mensah,Romance,2001,21,18,834-2812045599,Hachette,Fiction,English,D4-4,2023-08-09,2023-09-21
+306,Journey to Dreams,Amina Mensah,Business,2021,14,13,251-4330764978,HarperCollins,Non-Fiction,French,G7-18,2016-01-07,2016-07-18
+307,Legacy of Knowledge,Grace Johnson,Technology,2008,12,7,193-8047871078,Hachette,Non-Fiction,French,E5-13,2019-02-10,2019-11-08
+308,Fall of Innovation,Fatima Smith,History,2000,26,16,245-4756993311,Hachette,Non-Fiction,English,E5-10,2015-07-02,2016-05-26
+309,Chronicles of Knowledge,Linda Okafor,History,2022,22,18,218-8857649526,Pearson,Non-Fiction,English,A1-13,2024-01-01,2024-07-12
+310,The Stars,John Mensah,Self-Help,2001,9,5,512-2888379871,HarperCollins,Non-Fiction,English,C3-5,2020-07-28,2020-11-03
+311,Chronicles of Dreams,James Williams,Romance,2003,9,4,341-1935510694,HarperCollins,Fiction,French,A1-4,2023-11-22,2023-12-18
+312,Rise of Mind,John Adeyemi,Fantasy,2002,14,13,706-1479145779,HarperCollins,Fiction,French,B2-4,2020-01-21,2021-01-17
+313,Rise of Shadow,David Williams,Technology,2017,8,5,514-6348042353,Cambridge Press,Non-Fiction,Swahili,H8-19,2017-10-20,2017-11-21
+314,Secrets of Power,Fatima Mensah,Thriller,2020,26,5,993-5833522441,Pearson,Fiction,Swahili,D4-14,2018-01-09,2018-04-26
+315,Legacy of Destiny,Fatima Garcia,Mystery,1998,24,4,367-7147899267,Scholastic,Fiction,French,F6-15,2018-02-21,2018-09-13
+316,Secrets of Future,James Smith,Technology,2022,8,4,181-4515308586,Cambridge Press,Non-Fiction,English,A1-5,2019-03-16,2019-05-18
+317,Chronicles of Shadow,John Martins,Mystery,2001,15,7,291-1893161481,Macmillan,Fiction,English,B2-2,2017-02-19,2017-07-17
+318,Secrets of Knowledge,Daniel Garcia,Business,2008,32,25,679-3538951077,Hachette,Non-Fiction,French,G7-4,2017-06-10,2017-10-29
+319,Secrets of Innovation,Sophia Smith,History,2016,46,42,796-6643195807,Hachette,Non-Fiction,French,G7-2,2024-09-07,2025-05-30
+320,Chronicles of Dreams,Fatima Okafor,Business,1997,12,8,540-7580478563,Penguin Random House,Non-Fiction,English,F6-2,2020-01-31,2020-07-28
+321,Inside Knowledge,James Adeyemi,Mystery,1996,20,10,731-5842451824,Penguin Random House,Fiction,Swahili,B2-15,2017-09-20,2017-10-18
+322,The Empire,Amina Brown,Biography,1996,14,11,969-4588085042,Oxford Press,Non-Fiction,Arabic,F6-13,2015-07-04,2016-03-07
+323,The Knowledge,Fatima Johnson,History,1997,6,4,527-7201900762,Penguin Random House,Non-Fiction,English,A1-6,2016-12-28,2017-07-22
+324,Inside Dreams,David Brown,Thriller,2002,14,10,327-6260025955,Oxford Press,Fiction,Arabic,G7-6,2020-01-20,2020-02-02
+325,Secrets of Destiny,David Williams,Romance,2019,31,9,571-2258241986,Pearson,Fiction,Swahili,H8-1,2015-02-02,2015-02-14
+326,Journey to Shadow,Grace Okafor,Mystery,2013,43,26,874-2150882902,Cambridge Press,Fiction,Arabic,E5-6,2015-05-22,2015-09-28
+327,Legacy of Destiny,Linda Garcia,Fantasy,1998,11,9,945-5003844286,Macmillan,Fiction,English,B2-19,2023-07-18,2023-09-15
+328,Return of Power,Linda Williams,Business,2002,28,6,699-4055467663,Pearson,Non-Fiction,Arabic,B2-16,2017-09-03,2018-06-08
+329,Chronicles of Stars,Linda Bello,Romance,1996,16,16,950-7174853648,Hachette,Fiction,French,G7-2,2024-11-09,2024-11-14
+330,Rise of Shadow,Daniel Martins,Self-Help,2014,48,16,449-3287316329,HarperCollins,Non-Fiction,English,C3-4,2016-11-17,2016-12-20
+331,Beyond Power,Grace Okafor,Thriller,1998,44,9,940-6196350738,Scholastic,Fiction,Arabic,G7-12,2024-09-14,2025-09-06
+332,Chronicles of Mind,Amina Adeyemi,Self-Help,2011,5,4,708-1893493063,Hachette,Non-Fiction,French,A1-15,2021-04-01,2021-04-11
+333,Secrets of Future,David Johnson,Science Fiction,2017,15,6,608-2640584150,Macmillan,Fiction,Swahili,E5-5,2018-10-08,2019-01-09
+334,Chronicles of Innovation,Linda Mensah,Self-Help,2012,19,15,104-4585813630,Pearson,Non-Fiction,French,B2-17,2023-11-12,2024-04-22
+335,Journey to Innovation,Sophia Bello,Romance,2001,50,10,209-4143224755,Hachette,Fiction,Arabic,H8-4,2024-08-27,2025-02-19
+336,Beyond Destiny,James Williams,Mystery,2018,48,7,271-8393223543,Penguin Random House,Fiction,Arabic,H8-19,2021-04-14,2021-08-12
+337,Inside Knowledge,Michael Bello,Science Fiction,2014,37,25,770-2881120655,Oxford Press,Fiction,Swahili,F6-19,2016-05-02,2016-11-19
+338,Rise of Knowledge,Linda Williams,Thriller,2016,6,5,226-2693275043,Oxford Press,Fiction,Arabic,F6-10,2023-11-27,2024-08-31
+339,Secrets of Empire,Michael Okafor,Romance,2011,25,22,284-6359229124,Penguin Random House,Fiction,Arabic,D4-8,2016-11-17,2016-12-05
+340,Inside Empire,Daniel Bello,Self-Help,1998,12,8,265-7314677246,Scholastic,Non-Fiction,French,E5-20,2015-09-03,2015-12-05
+341,Legacy of Innovation,James Martins,Thriller,2014,39,33,599-4846868150,Pearson,Fiction,English,E5-16,2024-10-03,2024-10-17
+342,Beyond Mind,John Williams,Technology,2006,21,10,910-9414376134,Cambridge Press,Non-Fiction,French,D4-12,2016-12-01,2017-11-06
+343,Return of Shadow,James Martins,Technology,1995,40,14,499-4424644488,Macmillan,Non-Fiction,Swahili,D4-5,2017-03-14,2018-02-08
+344,Rise of Mind,John Adeyemi,History,2015,48,37,837-4773880391,HarperCollins,Non-Fiction,English,E5-11,2016-05-09,2016-10-11
+345,Secrets of Shadow,Daniel Williams,Technology,2014,15,9,277-7232189438,Pearson,Non-Fiction,Swahili,D4-8,2022-02-11,2022-08-05
+346,Fall of Shadow,Linda Mensah,Self-Help,2006,11,11,801-7392380099,Penguin Random House,Non-Fiction,Arabic,F6-14,2016-05-22,2017-02-11
+347,Beyond Stars,Daniel Johnson,Science Fiction,2018,43,13,525-1974909070,Hachette,Fiction,Arabic,G7-5,2016-12-17,2017-03-23
+348,Journey to Innovation,Daniel Brown,Science Fiction,2006,27,11,397-1726099780,Hachette,Fiction,French,D4-16,2024-03-15,2024-03-18
+349,Secrets of Knowledge,Sophia Williams,Business,1998,50,10,917-5616966372,Hachette,Non-Fiction,Arabic,G7-12,2018-02-16,2018-08-26
+350,Rise of Destiny,James Mensah,Science Fiction,2023,38,14,978-2715232994,Pearson,Fiction,French,A1-13,2022-04-05,2022-12-09
+351,Return of Future,Amina Bello,Technology,2012,40,4,209-6694935106,HarperCollins,Non-Fiction,Arabic,C3-3,2015-05-02,2015-11-22
+352,Chronicles of Knowledge,James Garcia,Mystery,2015,44,34,466-4652121199,Macmillan,Fiction,Arabic,B2-12,2020-01-21,2020-08-22
+353,The Destiny,Linda Garcia,History,2021,50,13,508-5937327925,HarperCollins,Non-Fiction,Arabic,H8-15,2016-12-14,2017-08-08
+354,Rise of Stars,David Bello,Science Fiction,2004,12,8,459-8451075990,Penguin Random House,Fiction,Arabic,E5-7,2019-03-28,2019-04-18
+355,Inside Destiny,Linda Garcia,Fantasy,2012,30,19,800-3961691857,Scholastic,Fiction,French,H8-6,2021-02-20,2021-10-31
+356,Inside Power,Grace Williams,Business,2009,17,6,286-7490148613,Penguin Random House,Non-Fiction,French,C3-14,2022-11-23,2023-09-26
+357,Secrets of Dreams,James Johnson,Thriller,1997,11,8,670-9342653828,Hachette,Fiction,Swahili,C3-8,2020-02-05,2020-03-11
+358,Journey to Mind,Amina Mensah,Fantasy,2014,9,4,126-7652209235,Scholastic,Fiction,Swahili,D4-4,2021-12-18,2022-01-20
+359,Chronicles of Mind,Linda Brown,Technology,1999,11,7,318-4564674107,Scholastic,Non-Fiction,French,G7-14,2021-08-02,2022-05-18
+360,Fall of Stars,Fatima Williams,Self-Help,2005,24,10,873-9024834115,Scholastic,Non-Fiction,French,D4-10,2022-11-11,2022-12-11
+361,Beyond Stars,Michael Garcia,History,1996,16,16,397-1261018188,Cambridge Press,Non-Fiction,Arabic,H8-11,2020-03-24,2020-07-01
+362,Fall of Power,Sophia Smith,Science Fiction,2009,21,12,157-7819764468,Pearson,Fiction,French,E5-10,2015-08-24,2016-01-13
+363,Legacy of Stars,Fatima Okafor,Self-Help,2005,28,24,484-1510730760,Pearson,Non-Fiction,Arabic,D4-12,2018-08-09,2019-07-06
+364,Beyond Future,Sophia Brown,Science Fiction,2013,50,40,395-1766963874,Scholastic,Fiction,French,E5-2,2024-06-15,2024-12-05
+365,Beyond Destiny,Daniel Johnson,Romance,2011,38,28,692-3433914932,Macmillan,Fiction,French,C3-3,2019-09-04,2020-07-04
+366,Chronicles of Innovation,Linda Johnson,Technology,2004,41,40,238-9859751019,HarperCollins,Non-Fiction,French,C3-18,2019-04-28,2019-06-27
+367,Inside Stars,Sophia Adeyemi,Romance,1999,14,7,503-6596286281,HarperCollins,Fiction,Swahili,C3-7,2020-05-09,2020-12-11
+368,Secrets of Knowledge,James Smith,Biography,2004,32,20,482-6518416342,Hachette,Non-Fiction,English,A1-14,2017-07-05,2017-10-07
+369,Secrets of Empire,Linda Okafor,Fantasy,2006,50,39,596-2617933059,Pearson,Fiction,Arabic,F6-1,2022-01-01,2022-05-02
+370,Return of Empire,Amina Smith,Business,2023,39,19,281-1008032184,Hachette,Non-Fiction,Swahili,A1-12,2019-07-06,2019-10-19
+371,Legacy of Destiny,Grace Garcia,Business,2010,26,14,412-8885870928,Oxford Press,Non-Fiction,Swahili,C3-13,2021-06-16,2021-08-09
+372,Secrets of Dreams,Linda Johnson,Thriller,2001,7,5,776-6133754702,Cambridge Press,Fiction,Swahili,B2-20,2020-07-24,2020-09-07
+373,Beyond Future,Linda Bello,History,2005,15,4,513-3317237700,Hachette,Non-Fiction,French,E5-9,2020-03-26,2020-05-03
+374,Beyond Power,James Johnson,Biography,2013,16,8,173-8915676293,Oxford Press,Non-Fiction,French,F6-9,2018-06-23,2019-01-28
+375,Return of Mind,Michael Okafor,Business,2008,29,18,993-6608361181,Oxford Press,Non-Fiction,Swahili,D4-17,2017-05-28,2017-09-07
+376,Inside Mind,David Johnson,History,2022,13,11,993-2837669013,Hachette,Non-Fiction,French,D4-17,2018-10-16,2019-01-12
+377,Inside Stars,Sophia Bello,Romance,2014,50,43,863-5937397860,Hachette,Fiction,English,H8-7,2016-06-05,2016-12-26
+378,Rise of Future,Linda Smith,Fantasy,2014,34,6,576-7964635710,Cambridge Press,Fiction,Swahili,G7-10,2023-11-19,2024-06-07
+379,Return of Destiny,Amina Garcia,Biography,2008,6,4,598-6192235150,Penguin Random House,Non-Fiction,French,F6-11,2019-11-16,2020-06-02
+380,Beyond Power,Daniel Adeyemi,Technology,2014,34,26,556-4979654370,Pearson,Non-Fiction,French,F6-6,2020-06-11,2020-10-13
+381,Inside Power,Amina Garcia,History,1999,39,38,553-8931737372,HarperCollins,Non-Fiction,Arabic,B2-2,2016-10-15,2016-12-06
+382,Journey to Dreams,Daniel Garcia,Fantasy,2022,15,11,504-7470752826,Penguin Random House,Fiction,French,H8-17,2024-08-15,2025-01-19
+383,Secrets of Innovation,Sophia Smith,Thriller,2013,49,30,868-8373586436,Hachette,Fiction,Swahili,H8-1,2021-06-23,2021-07-24
+384,Legacy of Innovation,Michael Garcia,Business,2018,48,31,155-2206289550,Oxford Press,Non-Fiction,French,H8-10,2015-01-18,2015-08-15
+385,The Knowledge,Grace Mensah,Biography,1998,7,6,205-1084534776,HarperCollins,Non-Fiction,French,D4-13,2015-07-16,2015-11-11
+386,Inside Destiny,Fatima Okafor,Self-Help,2023,40,30,896-3043382654,HarperCollins,Non-Fiction,English,H8-6,2023-07-21,2023-07-25
+387,Fall of Shadow,James Johnson,Biography,2003,23,10,251-1839021848,Scholastic,Non-Fiction,English,B2-9,2020-11-28,2020-12-20
+388,Journey to Destiny,Sophia Brown,Self-Help,1995,13,6,739-7676481665,Hachette,Non-Fiction,French,G7-7,2021-07-06,2021-09-11
+389,Legacy of Shadow,Sophia Williams,Science Fiction,2009,26,14,176-5042217750,Oxford Press,Fiction,French,G7-18,2022-06-30,2023-05-30
+390,Return of Dreams,Fatima Adeyemi,Science Fiction,2011,37,14,686-5594109514,HarperCollins,Fiction,French,A1-15,2021-11-14,2022-08-05
+391,The Empire,Daniel Adeyemi,Business,1996,31,6,435-9636322212,Scholastic,Non-Fiction,English,G7-1,2017-08-16,2018-05-23
+392,Return of Innovation,Grace Johnson,Business,2021,17,13,827-8902805132,Scholastic,Non-Fiction,Swahili,A1-13,2021-02-13,2021-10-20
+393,Legacy of Innovation,Amina Mensah,Biography,2016,19,17,696-9726499286,Oxford Press,Non-Fiction,English,A1-7,2016-02-24,2016-08-06
+394,Return of Empire,Daniel Smith,Fantasy,2014,28,15,547-9471023477,Cambridge Press,Fiction,French,D4-2,2022-11-04,2023-06-03
+395,Chronicles of Future,James Brown,Fantasy,2011,34,10,515-9468204075,Cambridge Press,Fiction,French,C3-5,2018-07-31,2018-08-29
+396,Beyond Future,Daniel Williams,Romance,2001,21,11,570-5375333992,Cambridge Press,Fiction,Arabic,D4-9,2020-07-09,2021-02-18
+397,Secrets of Empire,John Smith,Self-Help,1998,22,13,900-1415531948,Pearson,Non-Fiction,English,B2-8,2019-07-21,2020-05-27
+398,Inside Dreams,David Johnson,Business,2006,5,4,315-7808222132,Penguin Random House,Non-Fiction,Swahili,C3-5,2015-03-04,2015-08-15
+399,Fall of Stars,Daniel Garcia,Fantasy,1997,48,9,603-1232622887,Scholastic,Fiction,French,C3-6,2023-03-06,2023-05-04
+400,Beyond Knowledge,James Johnson,History,2024,39,28,961-7052442998,Hachette,Non-Fiction,French,D4-17,2018-02-02,2019-01-16
+401,Rise of Knowledge,James Brown,Thriller,2000,26,9,842-3239810120,Penguin Random House,Fiction,Swahili,B2-17,2015-04-29,2015-12-24
+402,Journey to Shadow,Sophia Bello,Romance,2020,5,5,508-4723906043,Hachette,Fiction,English,H8-3,2016-12-30,2017-02-02
+403,Journey to Future,Fatima Mensah,Romance,2009,41,18,575-6141583073,Hachette,Fiction,English,D4-17,2015-07-29,2016-02-26
+404,Inside Stars,Sophia Garcia,Mystery,2001,14,11,554-5385338863,Macmillan,Fiction,French,H8-5,2018-09-23,2019-05-16
+405,Journey to Dreams,Amina Johnson,Romance,2019,25,14,999-3480784287,Oxford Press,Fiction,French,G7-13,2015-09-04,2015-12-06
+406,Journey to Knowledge,Linda Smith,Business,2013,11,10,994-2978636018,Macmillan,Non-Fiction,French,B2-7,2020-07-09,2020-08-03
+407,The Mind,John Okafor,Technology,2000,47,35,591-5530384679,Hachette,Non-Fiction,English,F6-17,2020-10-20,2021-08-11
+408,Secrets of Knowledge,Linda Mensah,Science Fiction,2005,18,14,947-6564199733,Scholastic,Fiction,Arabic,C3-13,2017-07-23,2017-12-15
+409,Inside Empire,Amina Adeyemi,Science Fiction,2011,29,11,181-9909618376,Macmillan,Fiction,Arabic,A1-5,2022-05-11,2023-01-22
+410,The Power,James Adeyemi,Science Fiction,2022,37,18,296-9706729341,Cambridge Press,Fiction,Arabic,C3-14,2016-10-14,2017-05-15
+411,Legacy of Destiny,Daniel Garcia,Business,2002,6,5,946-9196925411,Penguin Random House,Non-Fiction,Arabic,D4-17,2021-07-06,2022-02-17
+412,Journey to Stars,Daniel Okafor,Biography,2021,28,10,167-9531247994,Hachette,Non-Fiction,Swahili,B2-4,2024-11-14,2025-08-15
+413,Rise of Knowledge,James Johnson,Fantasy,1997,35,28,807-4986568163,Oxford Press,Fiction,French,F6-18,2024-08-04,2025-05-23
+414,Rise of Empire,John Garcia,Biography,2020,18,16,752-8698286298,Oxford Press,Non-Fiction,Arabic,G7-1,2020-03-25,2020-08-23
+415,Inside Shadow,Linda Adeyemi,Romance,2020,38,17,395-9621631697,Pearson,Fiction,Arabic,B2-10,2017-01-08,2017-06-27
+416,Return of Future,Grace Williams,Self-Help,1999,10,7,843-7937020599,Scholastic,Non-Fiction,Arabic,C3-15,2024-08-10,2025-07-16
+417,Secrets of Power,David Smith,Self-Help,2016,17,15,273-5566280214,Cambridge Press,Non-Fiction,English,E5-11,2020-08-24,2021-08-08
+418,Return of Power,Michael Bello,Self-Help,2002,34,11,775-5436009110,Pearson,Non-Fiction,English,A1-4,2017-10-03,2018-03-03
+419,Beyond Innovation,Michael Garcia,Biography,2008,30,4,154-2855259517,Penguin Random House,Non-Fiction,Swahili,A1-19,2020-06-03,2020-09-07
+420,Return of Dreams,Grace Brown,Business,2024,28,28,102-2465326589,Macmillan,Non-Fiction,French,D4-20,2023-03-03,2023-12-16
+421,Legacy of Mind,James Bello,Business,2010,36,25,628-8277586706,Cambridge Press,Non-Fiction,Swahili,H8-6,2024-03-05,2024-05-01
+422,Secrets of Destiny,Fatima Okafor,Science Fiction,2000,41,16,372-8474804800,HarperCollins,Fiction,French,H8-12,2016-01-26,2016-10-31
+423,Secrets of Innovation,David Adeyemi,Biography,1998,44,34,479-8613899285,Scholastic,Non-Fiction,Arabic,B2-18,2019-08-10,2020-04-19
+424,Return of Knowledge,Sophia Mensah,Technology,2022,14,6,846-9965368458,HarperCollins,Non-Fiction,Swahili,E5-6,2018-05-11,2018-06-07
+425,Beyond Stars,Daniel Smith,Fantasy,2018,9,6,162-8808988330,Cambridge Press,Fiction,Arabic,E5-1,2020-02-20,2020-10-16
+426,Legacy of Dreams,Linda Garcia,Romance,2019,8,5,890-3026431430,Macmillan,Fiction,English,E5-1,2020-08-06,2020-11-26
+427,Return of Power,James Brown,Self-Help,2012,50,29,985-2928657561,Cambridge Press,Non-Fiction,French,A1-11,2022-05-16,2023-04-28
+428,Return of Shadow,David Brown,Business,2023,40,26,137-7444437714,Penguin Random House,Non-Fiction,Arabic,C3-13,2015-09-17,2015-12-18
+429,Return of Power,Linda Garcia,Thriller,2022,43,31,957-1677327431,Oxford Press,Fiction,Arabic,E5-6,2021-05-27,2021-11-15
+430,Journey to Power,Michael Martins,Business,2001,40,18,596-7543871204,Scholastic,Non-Fiction,Swahili,D4-20,2022-04-21,2022-06-16
+431,The Future,James Johnson,Biography,2003,42,40,729-5877400067,HarperCollins,Non-Fiction,English,B2-17,2019-05-22,2020-03-24
+432,Return of Knowledge,David Johnson,Biography,2002,10,9,722-4327675506,Pearson,Non-Fiction,Arabic,E5-7,2015-06-29,2015-07-03
+433,Chronicles of Dreams,Michael Martins,History,1998,6,5,528-5583374049,Pearson,Non-Fiction,Arabic,E5-3,2020-08-09,2021-03-26
+434,Secrets of Power,David Johnson,Biography,2020,18,13,373-9076809874,Oxford Press,Non-Fiction,Swahili,E5-7,2015-10-29,2016-08-11
+435,Beyond Empire,Amina Garcia,Thriller,2005,14,7,785-5011202436,HarperCollins,Fiction,Arabic,B2-18,2016-03-27,2016-07-07
+436,Secrets of Dreams,James Bello,Thriller,1997,42,17,162-9756413479,HarperCollins,Fiction,Arabic,B2-15,2019-10-03,2020-03-11
+437,Beyond Future,Linda Adeyemi,Fantasy,2005,26,15,340-1059272283,Oxford Press,Fiction,English,A1-8,2018-08-01,2019-07-23
+438,Return of Knowledge,John Martins,Mystery,2002,41,6,230-9460622589,Penguin Random House,Fiction,English,F6-3,2024-12-31,2025-10-26
+439,Legacy of Shadow,Sophia Bello,Romance,2010,12,7,290-6852900269,Penguin Random House,Fiction,English,B2-18,2022-04-14,2022-06-23
+440,Journey to Destiny,John Bello,Thriller,2013,22,7,497-1167191473,Cambridge Press,Fiction,English,H8-4,2016-12-20,2017-05-05
+441,The Destiny,John Martins,Fantasy,2006,41,23,414-4211467993,Scholastic,Fiction,Swahili,A1-13,2019-10-12,2020-01-06
+442,Chronicles of Innovation,David Adeyemi,Fantasy,2006,11,8,216-6061754939,Scholastic,Fiction,English,E5-16,2024-05-25,2024-07-20
+443,Rise of Dreams,John Williams,Mystery,2001,43,28,809-4237911450,Scholastic,Fiction,Swahili,C3-18,2019-05-10,2020-04-28
+444,The Shadow,Daniel Mensah,Science Fiction,1999,41,6,942-1192764812,HarperCollins,Fiction,Swahili,H8-13,2016-03-26,2016-11-29
+445,Return of Mind,Sophia Adeyemi,Biography,2014,38,22,362-1005565224,Oxford Press,Non-Fiction,Swahili,G7-17,2016-07-18,2016-10-12
+446,Return of Power,Sophia Okafor,Technology,2010,7,4,600-3441226139,Cambridge Press,Non-Fiction,English,A1-9,2015-04-16,2015-06-06
+447,Secrets of Mind,Michael Smith,Fantasy,1998,47,8,337-8727154159,Penguin Random House,Fiction,French,A1-5,2018-03-04,2019-02-23
+448,The Stars,Amina Bello,Thriller,2011,29,13,491-8099581495,Pearson,Fiction,Swahili,G7-12,2024-09-21,2025-09-20
+449,The Future,David Martins,Self-Help,1998,10,10,831-8258897875,Pearson,Non-Fiction,Arabic,G7-17,2021-10-30,2022-01-25
+450,Secrets of Dreams,Sophia Brown,Romance,2019,40,18,912-1240572639,Hachette,Fiction,English,A1-3,2020-03-19,2020-07-30
+451,Beyond Mind,Amina Bello,History,2020,8,6,410-5325407139,Oxford Press,Non-Fiction,English,C3-14,2017-02-13,2017-04-29
+452,Fall of Shadow,James Smith,Technology,2011,39,14,544-4642227391,Pearson,Non-Fiction,Swahili,G7-17,2022-05-27,2022-08-24
+453,Secrets of Future,Daniel Brown,Fantasy,2019,36,17,985-9432809375,Macmillan,Fiction,Swahili,E5-17,2018-10-07,2019-06-18
+454,Journey to Destiny,David Williams,History,2000,11,5,342-8228002615,Macmillan,Non-Fiction,Arabic,A1-6,2018-04-23,2019-01-17
+455,The Stars,John Williams,Fantasy,2003,33,9,256-3578495523,Pearson,Fiction,French,F6-9,2016-01-07,2016-04-20
+456,Fall of Knowledge,David Okafor,Technology,2008,48,28,870-5531688663,Oxford Press,Non-Fiction,Swahili,G7-5,2020-09-12,2021-07-12
+457,Chronicles of Destiny,John Okafor,Mystery,2005,24,6,229-4365176654,Macmillan,Fiction,French,D4-18,2016-03-04,2016-03-12
+458,Fall of Destiny,John Smith,Thriller,1999,36,27,360-2598706670,Macmillan,Fiction,French,E5-15,2018-09-05,2019-05-31
+459,Fall of Future,Grace Mensah,Romance,2013,16,12,878-8370207013,Hachette,Fiction,French,C3-12,2017-10-24,2018-02-22
+460,Inside Mind,James Okafor,Biography,2001,32,18,134-8103790928,Pearson,Non-Fiction,English,E5-16,2022-08-14,2022-12-06
+461,The Destiny,Amina Martins,History,2015,11,6,286-3412671174,Hachette,Non-Fiction,Arabic,C3-13,2015-11-26,2015-12-20
+462,Fall of Future,Michael Adeyemi,History,2001,6,6,999-2387827551,HarperCollins,Non-Fiction,Arabic,D4-13,2023-07-03,2024-05-20
+463,Fall of Destiny,Michael Williams,Romance,1999,40,18,253-3952762633,Hachette,Fiction,French,H8-15,2024-07-19,2025-02-03
+464,Return of Knowledge,Amina Garcia,Mystery,2003,37,24,621-4064854982,HarperCollins,Fiction,Swahili,G7-7,2021-08-09,2021-10-25
+465,Beyond Dreams,David Johnson,Business,2016,48,42,553-5682565630,Penguin Random House,Non-Fiction,Swahili,C3-10,2019-08-14,2020-06-04
+466,Inside Destiny,John Okafor,Thriller,2020,28,20,466-9931092380,Macmillan,Fiction,French,A1-15,2018-11-16,2019-02-10
+467,The Knowledge,Fatima Okafor,Biography,1997,22,11,771-3987021317,Macmillan,Non-Fiction,Swahili,G7-17,2023-06-29,2024-03-17
+468,Chronicles of Dreams,James Mensah,Mystery,2009,7,7,816-6785130593,Macmillan,Fiction,English,B2-8,2016-11-02,2017-09-13
+469,Fall of Future,Linda Garcia,History,2019,27,13,204-4218017351,Pearson,Non-Fiction,English,A1-15,2020-02-03,2020-12-21
+470,Return of Innovation,David Johnson,Self-Help,2011,18,4,719-2088235560,HarperCollins,Non-Fiction,Arabic,B2-13,2020-09-20,2021-04-19
+471,Fall of Shadow,David Williams,Thriller,2000,34,23,612-5904385929,Pearson,Fiction,English,G7-1,2016-11-05,2017-07-18
+472,Return of Knowledge,Sophia Williams,Fantasy,1996,38,18,344-8058909979,HarperCollins,Fiction,Arabic,A1-13,2019-09-12,2020-05-01
+473,Fall of Future,David Johnson,Romance,2015,45,22,849-7993223787,Penguin Random House,Fiction,Arabic,E5-20,2015-10-02,2015-11-17
+474,Rise of Empire,David Martins,Technology,2020,24,19,690-3323353368,Hachette,Non-Fiction,English,G7-3,2015-10-28,2016-02-09
+475,Legacy of Innovation,Sophia Williams,Romance,2000,42,37,121-6371229564,Hachette,Fiction,Swahili,A1-18,2015-05-19,2015-07-18
+476,Return of Shadow,Linda Bello,Fantasy,1999,15,10,157-2119694484,Oxford Press,Fiction,Swahili,H8-3,2020-02-16,2020-09-18
+477,Return of Future,Fatima Garcia,Science Fiction,2006,34,26,731-5076446506,Pearson,Fiction,Swahili,C3-12,2019-03-23,2019-11-20
+478,Fall of Innovation,Sophia Johnson,Technology,2014,24,11,137-3729523539,Scholastic,Non-Fiction,Arabic,F6-15,2024-10-18,2025-08-13
+479,The Knowledge,Sophia Brown,Self-Help,2020,21,9,969-8333078386,HarperCollins,Non-Fiction,Arabic,D4-5,2020-04-02,2021-03-12
+480,Return of Innovation,Sophia Adeyemi,Mystery,2014,32,13,543-4175659967,Hachette,Fiction,English,A1-9,2015-02-03,2016-02-03
+481,Fall of Empire,Sophia Martins,Self-Help,2000,32,8,570-9225708454,Oxford Press,Non-Fiction,English,E5-13,2022-11-13,2023-03-27
+482,Fall of Empire,John Garcia,Romance,2022,36,22,617-9217413337,Cambridge Press,Fiction,Arabic,G7-5,2016-02-06,2016-03-13
+483,Return of Mind,Michael Adeyemi,History,2010,37,15,624-2225118334,Scholastic,Non-Fiction,English,C3-8,2019-07-14,2019-11-15
+484,Return of Future,Fatima Mensah,Fantasy,2004,36,7,476-8568519954,Cambridge Press,Fiction,English,E5-14,2018-01-20,2018-04-08
+485,Legacy of Future,Linda Okafor,Thriller,2019,10,8,837-5428121098,Scholastic,Fiction,Arabic,G7-5,2019-07-11,2019-08-12
+486,Secrets of Knowledge,Daniel Martins,History,2017,15,5,753-3238307314,Scholastic,Non-Fiction,Swahili,D4-10,2015-03-10,2015-04-06
+487,Rise of Empire,Grace Mensah,Romance,2019,24,23,290-6512214918,HarperCollins,Fiction,Swahili,A1-19,2015-10-31,2016-07-04
+488,Journey to Innovation,Michael Williams,History,2024,36,15,143-9550327959,Scholastic,Non-Fiction,Arabic,H8-9,2023-06-21,2023-08-20
+489,Secrets of Stars,John Williams,Fantasy,1995,20,16,590-7722690624,Scholastic,Fiction,French,A1-5,2015-11-06,2016-05-01
+490,Fall of Destiny,Amina Garcia,Fantasy,2011,27,17,756-6291254485,Pearson,Fiction,Swahili,H8-14,2023-09-21,2024-09-05
+491,Legacy of Knowledge,James Johnson,Self-Help,2016,46,11,601-6653821623,HarperCollins,Non-Fiction,English,F6-3,2022-09-28,2022-12-11
+492,The Empire,Daniel Bello,Thriller,2000,48,20,570-8527155730,Hachette,Fiction,Swahili,B2-3,2024-04-04,2024-09-17
+493,Journey to Innovation,James Okafor,Fantasy,2015,8,7,537-2798863900,Oxford Press,Fiction,English,A1-20,2021-11-08,2022-07-10
+494,Fall of Stars,Linda Okafor,Business,2009,49,48,747-2185058104,Oxford Press,Non-Fiction,English,D4-20,2022-10-06,2022-11-06
+495,Rise of Mind,Sophia Adeyemi,History,2001,42,11,420-5522674028,Penguin Random House,Non-Fiction,Arabic,E5-20,2019-03-22,2019-05-31
+496,Legacy of Dreams,James Bello,Self-Help,2016,42,7,550-7997314661,Oxford Press,Non-Fiction,French,C3-7,2021-10-15,2022-08-04
+497,Chronicles of Dreams,Daniel Bello,Thriller,2004,44,36,320-5963378207,Cambridge Press,Fiction,Arabic,G7-18,2017-04-13,2017-08-24
+498,Chronicles of Dreams,David Smith,Romance,2002,5,5,868-4947263118,Cambridge Press,Fiction,English,C3-16,2018-03-02,2018-05-08
+499,Fall of Power,David Adeyemi,Business,1995,29,9,862-9403021676,Hachette,Non-Fiction,English,B2-8,2021-03-11,2021-09-21
+500,Fall of Innovation,Amina Smith,Mystery,2002,33,22,483-2311224865,Hachette,Fiction,Swahili,A1-12,2023-08-04,2024-02-14

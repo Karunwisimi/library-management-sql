@@ -1,0 +1,501 @@
+member_id,first_name,last_name,email,phone,join_date,membership_status,date_of_birth,gender,address,city,membership_type,total_books_borrowed,is_active
+1,Sophia,Garcia,sophia.garcia1@library.com,+2347682400912,2023-02-04,Inactive,1970-03-25,Female,178 Main Street,Cairo,Student,114,FALSE
+2,James,Mensah,james.mensah2@library.com,+2348095011477,2023-09-28,Inactive,1961-05-26,Male,182 Main Street,Dar es Salaam,Regular,67,FALSE
+3,John,Martins,john.martins3@library.com,+2348217072053,2023-10-01,Active,1978-09-16,Female,191 Main Street,Dar es Salaam,Student,21,TRUE
+4,Amina,Smith,amina.smith4@library.com,+2349006057342,2022-07-21,Active,1989-04-26,Male,14 Main Street,Dar es Salaam,Regular,2,TRUE
+5,Daniel,Brown,daniel.brown5@library.com,+2349066065079,2024-07-20,Inactive,1984-03-02,Female,137 Main Street,Cairo,Student,102,FALSE
+6,Daniel,Okafor,daniel.okafor6@library.com,+2348763778713,2021-08-13,Inactive,2004-03-27,Male,66 Main Street,Cairo,Student,68,FALSE
+7,Michael,Garcia,michael.garcia7@library.com,+2347271312709,2021-07-12,Inactive,1989-02-28,Male,8 Main Street,Lagos,Premium,14,FALSE
+8,John,Brown,john.brown8@library.com,+2348119179112,2023-09-04,Inactive,1977-02-05,Female,24 Main Street,Cairo,Premium,39,FALSE
+9,Fatima,Garcia,fatima.garcia9@library.com,+2347331138335,2023-12-03,Active,1997-07-06,Female,41 Main Street,Abuja,Student,84,TRUE
+10,John,Bello,john.bello10@library.com,+2347058662265,2022-02-18,Inactive,1974-04-29,Female,123 Main Street,Accra,Regular,8,FALSE
+11,Daniel,Martins,daniel.martins11@library.com,+2347544066714,2023-08-08,Inactive,1965-12-29,Male,118 Main Street,Cape Town,Premium,63,FALSE
+12,David,Garcia,david.garcia12@library.com,+2348820495431,2022-11-06,Inactive,1978-02-07,Female,85 Main Street,Nairobi,Regular,33,FALSE
+13,Grace,Okafor,grace.okafor13@library.com,+2347028727337,2021-07-03,Inactive,1994-09-06,Male,191 Main Street,Lagos,Premium,111,FALSE
+14,John,Smith,john.smith14@library.com,+2348059120994,2020-02-13,Inactive,1990-08-09,Male,126 Main Street,Nairobi,Regular,35,FALSE
+15,Fatima,Mensah,fatima.mensah15@library.com,+2347196540765,2019-02-09,Active,2001-04-25,Female,20 Main Street,Lagos,Student,40,TRUE
+16,James,Garcia,james.garcia16@library.com,+2348134449162,2018-02-06,Inactive,1999-06-13,Female,59 Main Street,Accra,Regular,0,FALSE
+17,Sophia,Bello,sophia.bello17@library.com,+2347804620424,2024-12-21,Inactive,1986-06-29,Male,113 Main Street,Dar es Salaam,Premium,92,FALSE
+18,Grace,Brown,grace.brown18@library.com,+2348229929620,2022-03-08,Active,1996-06-13,Male,90 Main Street,Cairo,Regular,15,TRUE
+19,Mary,Brown,mary.brown19@library.com,+2347885636192,2018-04-30,Active,1986-11-01,Female,158 Main Street,Abuja,Premium,111,TRUE
+20,Amina,Williams,amina.williams20@library.com,+2347453537979,2024-11-11,Inactive,1992-12-28,Female,42 Main Street,Lagos,Regular,100,FALSE
+21,Fatima,Mensah,fatima.mensah21@library.com,+2348274553431,2018-09-24,Active,1990-02-08,Male,140 Main Street,Cairo,Regular,68,TRUE
+22,Fatima,Adeyemi,fatima.adeyemi22@library.com,+2347916589425,2018-06-10,Active,1964-07-18,Male,153 Main Street,Cape Town,Regular,5,TRUE
+23,James,Bello,james.bello23@library.com,+2347575401379,2024-02-27,Inactive,1983-09-19,Male,194 Main Street,Accra,Regular,67,FALSE
+24,John,Bello,john.bello24@library.com,+2348113483367,2018-07-10,Active,1993-03-09,Male,118 Main Street,Lagos,Premium,44,TRUE
+25,Grace,Adeyemi,grace.adeyemi25@library.com,+2347189527107,2021-06-14,Active,1980-10-24,Male,192 Main Street,Dar es Salaam,Premium,83,TRUE
+26,Fatima,Williams,fatima.williams26@library.com,+2347543936146,2022-07-09,Active,1992-04-09,Female,127 Main Street,Cairo,Regular,77,TRUE
+27,David,Adeyemi,david.adeyemi27@library.com,+2347046449924,2021-07-24,Inactive,1969-09-18,Female,89 Main Street,Dar es Salaam,Student,120,FALSE
+28,John,Garcia,john.garcia28@library.com,+2348030431400,2024-05-16,Inactive,2003-03-04,Female,140 Main Street,Lagos,Student,95,FALSE
+29,Grace,Smith,grace.smith29@library.com,+2347694075755,2018-08-02,Active,1972-04-12,Male,196 Main Street,Kampala,Student,106,TRUE
+30,Grace,Williams,grace.williams30@library.com,+2347752529383,2021-09-06,Active,1990-06-24,Female,152 Main Street,Abuja,Student,95,TRUE
+31,Michael,Williams,michael.williams31@library.com,+2347155617072,2019-12-03,Inactive,1969-10-22,Male,33 Main Street,Abuja,Premium,5,FALSE
+32,Sophia,Adeyemi,sophia.adeyemi32@library.com,+2347019922916,2024-03-13,Inactive,1998-07-17,Female,67 Main Street,Dar es Salaam,Premium,57,FALSE
+33,Mary,Okafor,mary.okafor33@library.com,+2347132679792,2022-02-01,Active,1986-08-16,Male,79 Main Street,Abuja,Regular,13,TRUE
+34,John,Johnson,john.johnson34@library.com,+2348251446026,2018-09-01,Active,1979-09-20,Male,67 Main Street,Cairo,Student,28,TRUE
+35,Grace,Mensah,grace.mensah35@library.com,+2347294658203,2018-11-08,Active,1963-02-19,Male,14 Main Street,Cairo,Student,9,TRUE
+36,Michael,Smith,michael.smith36@library.com,+2348771553358,2022-06-01,Inactive,1996-06-24,Female,69 Main Street,Accra,Student,77,FALSE
+37,Michael,Smith,michael.smith37@library.com,+2347639196941,2018-09-05,Inactive,1962-12-03,Male,46 Main Street,Cairo,Student,27,FALSE
+38,Grace,Williams,grace.williams38@library.com,+2348835106669,2022-08-02,Inactive,2004-03-23,Male,105 Main Street,Nairobi,Student,54,FALSE
+39,Mary,Johnson,mary.johnson39@library.com,+2347944932958,2024-10-27,Inactive,1968-08-27,Female,121 Main Street,Accra,Premium,59,FALSE
+40,Sophia,Adeyemi,sophia.adeyemi40@library.com,+2348572404270,2020-03-16,Inactive,1991-10-02,Male,123 Main Street,Lagos,Premium,67,FALSE
+41,Amina,Johnson,amina.johnson41@library.com,+2348719457073,2018-10-11,Active,1991-09-30,Female,161 Main Street,Cairo,Regular,13,TRUE
+42,Mary,Garcia,mary.garcia42@library.com,+2347339667963,2019-05-29,Active,1977-04-06,Male,161 Main Street,Cape Town,Regular,73,TRUE
+43,Grace,Bello,grace.bello43@library.com,+2348882505198,2019-11-25,Active,1967-11-14,Male,50 Main Street,Nairobi,Student,48,TRUE
+44,Mary,Adeyemi,mary.adeyemi44@library.com,+2348705637439,2018-07-10,Inactive,1965-11-02,Male,40 Main Street,Dar es Salaam,Premium,46,FALSE
+45,Daniel,Garcia,daniel.garcia45@library.com,+2348665868876,2018-01-29,Inactive,1985-01-26,Male,156 Main Street,Abuja,Student,91,FALSE
+46,Daniel,Martins,daniel.martins46@library.com,+2348868071002,2019-12-19,Active,1995-10-31,Male,62 Main Street,Cairo,Regular,84,TRUE
+47,Mary,Mensah,mary.mensah47@library.com,+2348577037694,2024-04-17,Inactive,2002-07-01,Female,51 Main Street,Abuja,Student,51,FALSE
+48,Sophia,Brown,sophia.brown48@library.com,+2348817925798,2024-03-07,Active,1989-03-02,Female,8 Main Street,Kampala,Regular,6,TRUE
+49,Sophia,Johnson,sophia.johnson49@library.com,+2348264152897,2023-01-30,Active,1966-03-06,Male,138 Main Street,Lagos,Student,110,TRUE
+50,Michael,Martins,michael.martins50@library.com,+2348169803530,2018-07-12,Inactive,1977-05-12,Male,41 Main Street,Lagos,Regular,92,FALSE
+51,Fatima,Mensah,fatima.mensah51@library.com,+2347189941800,2018-09-01,Inactive,1974-02-11,Female,125 Main Street,Accra,Student,107,FALSE
+52,Mary,Mensah,mary.mensah52@library.com,+2348429160196,2024-04-29,Active,1989-09-26,Female,194 Main Street,Nairobi,Premium,78,TRUE
+53,Amina,Brown,amina.brown53@library.com,+2347194464844,2024-12-01,Active,1998-08-29,Male,114 Main Street,Accra,Regular,65,TRUE
+54,Amina,Johnson,amina.johnson54@library.com,+2349074998438,2021-02-13,Inactive,1980-10-26,Male,57 Main Street,Accra,Premium,61,FALSE
+55,Amina,Adeyemi,amina.adeyemi55@library.com,+2348958797112,2021-04-17,Active,1986-05-16,Female,79 Main Street,Accra,Premium,17,TRUE
+56,Mary,Martins,mary.martins56@library.com,+2347127953734,2020-02-24,Inactive,1979-03-20,Male,28 Main Street,Dar es Salaam,Premium,96,FALSE
+57,Mary,Brown,mary.brown57@library.com,+2347131517150,2022-11-19,Inactive,1985-10-07,Female,172 Main Street,Accra,Student,120,FALSE
+58,Grace,Brown,grace.brown58@library.com,+2347043376881,2024-05-04,Active,1985-06-02,Male,45 Main Street,Kampala,Regular,106,TRUE
+59,Mary,Garcia,mary.garcia59@library.com,+2347902063404,2020-10-18,Inactive,1997-03-10,Female,96 Main Street,Cape Town,Premium,21,FALSE
+60,Grace,Johnson,grace.johnson60@library.com,+2348477289463,2019-12-24,Active,1962-08-15,Male,118 Main Street,Accra,Regular,115,TRUE
+61,David,Bello,david.bello61@library.com,+2347667083064,2024-12-25,Inactive,1997-09-22,Female,25 Main Street,Cairo,Student,41,FALSE
+62,David,Brown,david.brown62@library.com,+2347211870631,2024-07-13,Active,1976-09-20,Male,148 Main Street,Dar es Salaam,Student,116,TRUE
+63,Sophia,Mensah,sophia.mensah63@library.com,+2349060145571,2024-07-05,Active,1970-12-10,Male,140 Main Street,Cape Town,Premium,35,TRUE
+64,John,Brown,john.brown64@library.com,+2347600978486,2024-07-23,Active,1972-08-18,Female,166 Main Street,Dar es Salaam,Premium,93,TRUE
+65,Grace,Garcia,grace.garcia65@library.com,+2349038256573,2020-08-31,Active,1976-03-12,Male,17 Main Street,Dar es Salaam,Premium,79,TRUE
+66,John,Smith,john.smith66@library.com,+2347805639957,2019-02-24,Active,1983-04-07,Female,153 Main Street,Dar es Salaam,Student,64,TRUE
+67,Daniel,Garcia,daniel.garcia67@library.com,+2348414096176,2018-09-09,Active,1991-12-19,Female,123 Main Street,Accra,Student,114,TRUE
+68,Fatima,Mensah,fatima.mensah68@library.com,+2347486831656,2018-02-04,Inactive,1977-03-27,Male,163 Main Street,Accra,Premium,56,FALSE
+69,Amina,Johnson,amina.johnson69@library.com,+2347371833641,2024-03-20,Active,1972-12-04,Female,4 Main Street,Cairo,Student,42,TRUE
+70,Mary,Mensah,mary.mensah70@library.com,+2347960365910,2021-01-26,Active,2004-10-03,Female,26 Main Street,Dar es Salaam,Student,59,TRUE
+71,Michael,Okafor,michael.okafor71@library.com,+2347601209391,2021-03-20,Active,2000-09-17,Male,47 Main Street,Nairobi,Student,99,TRUE
+72,Mary,Mensah,mary.mensah72@library.com,+2347696486534,2021-03-15,Inactive,1987-03-28,Male,28 Main Street,Abuja,Student,74,FALSE
+73,John,Garcia,john.garcia73@library.com,+2348967446800,2020-06-25,Active,2002-10-26,Female,177 Main Street,Accra,Regular,4,TRUE
+74,Michael,Williams,michael.williams74@library.com,+2347035563048,2021-03-15,Active,2005-08-20,Male,98 Main Street,Kampala,Premium,40,TRUE
+75,Daniel,Adeyemi,daniel.adeyemi75@library.com,+2347759736159,2020-06-07,Active,2005-02-03,Female,179 Main Street,Cape Town,Student,65,TRUE
+76,James,Mensah,james.mensah76@library.com,+2348854071310,2024-09-26,Inactive,1999-11-02,Female,29 Main Street,Accra,Student,67,FALSE
+77,David,Okafor,david.okafor77@library.com,+2348790872135,2023-11-05,Inactive,1984-12-30,Male,62 Main Street,Accra,Regular,43,FALSE
+78,David,Mensah,david.mensah78@library.com,+2347810702723,2023-05-04,Inactive,1966-03-17,Male,166 Main Street,Nairobi,Student,78,FALSE
+79,Mary,Smith,mary.smith79@library.com,+2348339576072,2023-12-11,Active,1963-05-14,Female,47 Main Street,Dar es Salaam,Regular,0,TRUE
+80,John,Adeyemi,john.adeyemi80@library.com,+2347750162920,2024-07-13,Active,1963-06-26,Female,139 Main Street,Kampala,Regular,74,TRUE
+81,Grace,Smith,grace.smith81@library.com,+2348794592106,2020-07-19,Inactive,1975-10-30,Male,43 Main Street,Accra,Student,44,FALSE
+82,Sophia,Johnson,sophia.johnson82@library.com,+2347722680018,2018-09-19,Active,1994-10-18,Female,114 Main Street,Cairo,Regular,71,TRUE
+83,Sophia,Adeyemi,sophia.adeyemi83@library.com,+2347487946734,2020-09-05,Active,1963-08-29,Male,108 Main Street,Nairobi,Premium,31,TRUE
+84,Fatima,Mensah,fatima.mensah84@library.com,+2348181638637,2024-11-02,Inactive,1979-12-12,Female,193 Main Street,Lagos,Regular,36,FALSE
+85,Amina,Martins,amina.martins85@library.com,+2348847168449,2022-03-12,Active,1968-05-14,Male,57 Main Street,Dar es Salaam,Student,56,TRUE
+86,James,Bello,james.bello86@library.com,+2348053250917,2023-09-11,Active,1975-11-01,Male,193 Main Street,Kampala,Premium,101,TRUE
+87,James,Smith,james.smith87@library.com,+2347823337416,2018-04-05,Inactive,1999-01-08,Male,1 Main Street,Accra,Regular,111,FALSE
+88,Fatima,Adeyemi,fatima.adeyemi88@library.com,+2347376654836,2023-08-20,Inactive,2004-03-16,Female,79 Main Street,Abuja,Student,43,FALSE
+89,Grace,Mensah,grace.mensah89@library.com,+2347360243963,2019-05-29,Inactive,1979-10-21,Male,27 Main Street,Cape Town,Premium,77,FALSE
+90,Sophia,Bello,sophia.bello90@library.com,+2347139205079,2019-12-22,Inactive,1985-09-30,Female,152 Main Street,Nairobi,Student,9,FALSE
+91,James,Williams,james.williams91@library.com,+2348092479845,2020-07-16,Inactive,2000-08-06,Female,177 Main Street,Cape Town,Premium,13,FALSE
+92,Amina,Okafor,amina.okafor92@library.com,+2348653685650,2023-04-28,Inactive,1970-11-22,Male,3 Main Street,Abuja,Regular,2,FALSE
+93,James,Adeyemi,james.adeyemi93@library.com,+2348274313853,2020-01-08,Active,1992-10-27,Male,48 Main Street,Lagos,Student,83,TRUE
+94,David,Mensah,david.mensah94@library.com,+2347474094758,2020-03-12,Inactive,1999-02-14,Male,182 Main Street,Abuja,Student,38,FALSE
+95,John,Johnson,john.johnson95@library.com,+2348475208413,2018-05-17,Active,1960-09-05,Female,178 Main Street,Dar es Salaam,Premium,116,TRUE
+96,Daniel,Mensah,daniel.mensah96@library.com,+2348080531683,2022-08-10,Inactive,1995-02-03,Male,50 Main Street,Accra,Premium,18,FALSE
+97,Amina,Johnson,amina.johnson97@library.com,+2349050562160,2022-12-18,Active,1992-10-13,Male,167 Main Street,Lagos,Premium,84,TRUE
+98,Amina,Mensah,amina.mensah98@library.com,+2348362019947,2022-06-30,Inactive,1964-12-23,Female,105 Main Street,Kampala,Regular,116,FALSE
+99,Grace,Okafor,grace.okafor99@library.com,+2347029466548,2018-03-03,Active,1987-09-29,Female,167 Main Street,Abuja,Regular,62,TRUE
+100,Daniel,Williams,daniel.williams100@library.com,+2348529238094,2022-10-19,Active,1967-04-14,Female,165 Main Street,Cairo,Regular,1,TRUE
+101,Daniel,Johnson,daniel.johnson101@library.com,+2348582056581,2022-12-06,Active,1978-03-09,Female,157 Main Street,Cape Town,Regular,17,TRUE
+102,Grace,Williams,grace.williams102@library.com,+2347328694719,2023-11-12,Inactive,1976-08-08,Female,122 Main Street,Nairobi,Premium,14,FALSE
+103,Sophia,Brown,sophia.brown103@library.com,+2347885279297,2024-06-05,Active,1976-02-16,Male,68 Main Street,Cairo,Student,54,TRUE
+104,John,Bello,john.bello104@library.com,+2348086663985,2020-10-28,Active,1994-05-02,Female,181 Main Street,Abuja,Regular,107,TRUE
+105,Daniel,Williams,daniel.williams105@library.com,+2347525190276,2023-01-08,Inactive,1990-07-20,Female,98 Main Street,Dar es Salaam,Regular,109,FALSE
+106,James,Okafor,james.okafor106@library.com,+2347848797434,2022-02-08,Active,1967-08-03,Female,83 Main Street,Dar es Salaam,Student,45,TRUE
+107,Amina,Bello,amina.bello107@library.com,+2348901873641,2021-06-04,Inactive,1966-01-26,Female,101 Main Street,Dar es Salaam,Premium,21,FALSE
+108,Sophia,Johnson,sophia.johnson108@library.com,+2347237716905,2018-06-19,Inactive,1985-07-29,Male,136 Main Street,Accra,Regular,39,FALSE
+109,Grace,Mensah,grace.mensah109@library.com,+2347925597136,2020-11-10,Active,2001-03-20,Female,21 Main Street,Kampala,Regular,27,TRUE
+110,James,Adeyemi,james.adeyemi110@library.com,+2348231036515,2018-11-13,Inactive,1980-09-10,Female,156 Main Street,Accra,Regular,24,FALSE
+111,Daniel,Adeyemi,daniel.adeyemi111@library.com,+2348042461746,2021-05-03,Active,1965-05-10,Female,155 Main Street,Kampala,Regular,47,TRUE
+112,Mary,Adeyemi,mary.adeyemi112@library.com,+2347502319150,2023-07-31,Inactive,1978-03-17,Female,10 Main Street,Cairo,Student,114,FALSE
+113,Mary,Williams,mary.williams113@library.com,+2348384333656,2018-01-20,Inactive,1980-10-14,Male,70 Main Street,Nairobi,Premium,29,FALSE
+114,Fatima,Martins,fatima.martins114@library.com,+2348500234655,2022-12-31,Inactive,1990-08-05,Female,30 Main Street,Accra,Regular,57,FALSE
+115,David,Adeyemi,david.adeyemi115@library.com,+2348804042092,2024-12-14,Active,1964-04-15,Male,1 Main Street,Abuja,Regular,27,TRUE
+116,Amina,Mensah,amina.mensah116@library.com,+2347187062048,2020-12-04,Inactive,1960-05-04,Male,55 Main Street,Dar es Salaam,Student,108,FALSE
+117,Sophia,Brown,sophia.brown117@library.com,+2348519213248,2019-01-10,Inactive,1977-11-23,Male,138 Main Street,Accra,Regular,92,FALSE
+118,Amina,Garcia,amina.garcia118@library.com,+2348699275132,2022-05-18,Inactive,2002-12-25,Female,188 Main Street,Accra,Student,24,FALSE
+119,Fatima,Bello,fatima.bello119@library.com,+2347846723704,2018-03-01,Active,1984-07-11,Female,71 Main Street,Cape Town,Regular,26,TRUE
+120,Fatima,Williams,fatima.williams120@library.com,+2347300956487,2019-06-30,Active,1970-09-01,Female,159 Main Street,Cairo,Student,8,TRUE
+121,Sophia,Williams,sophia.williams121@library.com,+2349089123607,2018-09-19,Inactive,1967-04-28,Female,162 Main Street,Dar es Salaam,Premium,48,FALSE
+122,Daniel,Garcia,daniel.garcia122@library.com,+2347264318211,2023-02-20,Active,2005-11-25,Female,174 Main Street,Nairobi,Student,53,TRUE
+123,Michael,Brown,michael.brown123@library.com,+2348065394935,2018-04-26,Inactive,2004-01-23,Female,181 Main Street,Cape Town,Regular,59,FALSE
+124,Fatima,Brown,fatima.brown124@library.com,+2347573089222,2024-12-02,Inactive,1985-09-19,Female,182 Main Street,Abuja,Student,112,FALSE
+125,David,Bello,david.bello125@library.com,+2347006573608,2021-01-06,Active,2003-12-04,Male,142 Main Street,Accra,Premium,29,TRUE
+126,John,Brown,john.brown126@library.com,+2348888457938,2022-02-12,Active,1973-12-27,Female,7 Main Street,Cairo,Premium,104,TRUE
+127,David,Mensah,david.mensah127@library.com,+2347341988132,2023-06-03,Active,1966-02-28,Female,143 Main Street,Cairo,Regular,74,TRUE
+128,David,Mensah,david.mensah128@library.com,+2347472054373,2022-08-03,Active,1964-01-23,Female,121 Main Street,Lagos,Regular,29,TRUE
+129,Amina,Williams,amina.williams129@library.com,+2347372083376,2020-02-16,Inactive,1969-03-20,Female,171 Main Street,Cairo,Premium,42,FALSE
+130,David,Williams,david.williams130@library.com,+2347815751585,2020-02-25,Inactive,1996-03-03,Male,12 Main Street,Lagos,Student,105,FALSE
+131,Mary,Garcia,mary.garcia131@library.com,+2347283345757,2023-06-07,Inactive,1974-09-02,Male,166 Main Street,Abuja,Regular,12,FALSE
+132,John,Smith,john.smith132@library.com,+2348926329657,2024-04-15,Active,2001-03-01,Female,112 Main Street,Nairobi,Student,118,TRUE
+133,John,Adeyemi,john.adeyemi133@library.com,+2347974553750,2024-03-04,Inactive,1961-03-14,Female,160 Main Street,Lagos,Premium,70,FALSE
+134,John,Adeyemi,john.adeyemi134@library.com,+2347676318168,2020-07-14,Inactive,1979-01-01,Female,164 Main Street,Lagos,Premium,96,FALSE
+135,David,Brown,david.brown135@library.com,+2347294718352,2020-05-26,Inactive,2003-10-24,Female,174 Main Street,Kampala,Regular,112,FALSE
+136,Sophia,Garcia,sophia.garcia136@library.com,+2347208198093,2023-11-13,Inactive,2001-07-27,Female,119 Main Street,Kampala,Premium,42,FALSE
+137,David,Bello,david.bello137@library.com,+2347166112831,2023-05-15,Active,1968-05-04,Female,50 Main Street,Abuja,Regular,17,TRUE
+138,Sophia,Okafor,sophia.okafor138@library.com,+2348934218587,2023-12-30,Inactive,1999-08-22,Female,76 Main Street,Accra,Premium,89,FALSE
+139,James,Smith,james.smith139@library.com,+2347224524582,2024-03-26,Active,1968-11-06,Female,172 Main Street,Cairo,Regular,78,TRUE
+140,Fatima,Brown,fatima.brown140@library.com,+2348983256431,2018-09-03,Active,1965-06-19,Female,138 Main Street,Accra,Regular,57,TRUE
+141,Michael,Smith,michael.smith141@library.com,+2349060240478,2022-08-16,Active,1969-06-17,Male,91 Main Street,Cape Town,Student,37,TRUE
+142,Daniel,Smith,daniel.smith142@library.com,+2347902972381,2024-05-07,Inactive,1987-07-14,Female,41 Main Street,Cairo,Student,23,FALSE
+143,James,Garcia,james.garcia143@library.com,+2348474427017,2018-04-21,Active,1994-01-13,Female,104 Main Street,Lagos,Student,30,TRUE
+144,Grace,Smith,grace.smith144@library.com,+2349017053329,2020-09-06,Active,1977-06-10,Male,178 Main Street,Nairobi,Regular,101,TRUE
+145,James,Williams,james.williams145@library.com,+2347396519291,2019-05-17,Inactive,2002-08-09,Female,160 Main Street,Abuja,Regular,89,FALSE
+146,Grace,Brown,grace.brown146@library.com,+2348142038451,2019-07-11,Active,1990-10-14,Male,79 Main Street,Cape Town,Regular,35,TRUE
+147,Mary,Johnson,mary.johnson147@library.com,+2347151937913,2018-06-13,Active,1973-08-25,Male,121 Main Street,Lagos,Regular,97,TRUE
+148,Amina,Bello,amina.bello148@library.com,+2347817223276,2020-11-12,Active,1975-04-13,Female,44 Main Street,Dar es Salaam,Regular,66,TRUE
+149,Fatima,Garcia,fatima.garcia149@library.com,+2347602678933,2022-08-31,Inactive,1981-04-27,Female,45 Main Street,Nairobi,Premium,86,FALSE
+150,Sophia,Okafor,sophia.okafor150@library.com,+2347065374924,2024-09-28,Inactive,1982-07-16,Female,192 Main Street,Abuja,Premium,56,FALSE
+151,Mary,Smith,mary.smith151@library.com,+2347857705627,2018-01-27,Inactive,1980-04-17,Female,91 Main Street,Abuja,Regular,78,FALSE
+152,David,Williams,david.williams152@library.com,+2348709961569,2019-09-22,Inactive,1970-05-13,Male,125 Main Street,Nairobi,Premium,37,FALSE
+153,Sophia,Garcia,sophia.garcia153@library.com,+2348347391187,2018-09-17,Active,2005-02-01,Male,56 Main Street,Dar es Salaam,Student,75,TRUE
+154,Sophia,Martins,sophia.martins154@library.com,+2348220269733,2020-02-10,Active,1961-02-25,Male,35 Main Street,Cape Town,Student,72,TRUE
+155,Mary,Williams,mary.williams155@library.com,+2347242615797,2022-06-10,Active,1984-01-14,Male,59 Main Street,Dar es Salaam,Student,20,TRUE
+156,Fatima,Okafor,fatima.okafor156@library.com,+2348277660369,2024-01-08,Active,1988-06-29,Male,194 Main Street,Cape Town,Regular,24,TRUE
+157,Grace,Adeyemi,grace.adeyemi157@library.com,+2348274021383,2019-07-03,Active,2001-03-09,Male,80 Main Street,Accra,Regular,68,TRUE
+158,James,Martins,james.martins158@library.com,+2348302786142,2023-06-06,Active,1984-04-04,Male,170 Main Street,Cape Town,Regular,76,TRUE
+159,Grace,Martins,grace.martins159@library.com,+2348278841312,2022-10-20,Inactive,1960-09-18,Male,43 Main Street,Lagos,Regular,16,FALSE
+160,James,Williams,james.williams160@library.com,+2349098579736,2018-01-12,Inactive,1968-05-01,Male,156 Main Street,Cape Town,Premium,47,FALSE
+161,James,Martins,james.martins161@library.com,+2348789668774,2024-01-01,Active,1993-09-16,Female,112 Main Street,Cape Town,Regular,7,TRUE
+162,Fatima,Johnson,fatima.johnson162@library.com,+2347190922333,2018-01-17,Active,1969-10-02,Male,155 Main Street,Cape Town,Regular,41,TRUE
+163,James,Williams,james.williams163@library.com,+2348508475316,2023-04-15,Inactive,1998-01-30,Male,83 Main Street,Dar es Salaam,Premium,65,FALSE
+164,James,Brown,james.brown164@library.com,+2348338483012,2018-12-05,Active,1986-10-30,Female,141 Main Street,Abuja,Premium,51,TRUE
+165,Sophia,Johnson,sophia.johnson165@library.com,+2348740711472,2019-10-19,Active,1973-05-27,Male,181 Main Street,Dar es Salaam,Regular,81,TRUE
+166,David,Williams,david.williams166@library.com,+2348332270348,2023-02-21,Inactive,1971-12-17,Female,93 Main Street,Abuja,Regular,48,FALSE
+167,James,Bello,james.bello167@library.com,+2347389463998,2019-03-08,Active,1988-04-18,Male,61 Main Street,Kampala,Student,52,TRUE
+168,Fatima,Brown,fatima.brown168@library.com,+2347699487985,2018-11-29,Inactive,2001-06-13,Male,41 Main Street,Lagos,Premium,39,FALSE
+169,John,Brown,john.brown169@library.com,+2348917151704,2019-08-20,Inactive,1992-06-16,Female,164 Main Street,Abuja,Premium,40,FALSE
+170,John,Williams,john.williams170@library.com,+2348278782223,2023-06-06,Active,1980-07-29,Male,4 Main Street,Lagos,Premium,51,TRUE
+171,Mary,Garcia,mary.garcia171@library.com,+2348604885749,2018-04-12,Active,1969-08-18,Male,78 Main Street,Lagos,Student,69,TRUE
+172,James,Johnson,james.johnson172@library.com,+2348610089702,2018-06-28,Active,1997-11-23,Female,185 Main Street,Lagos,Regular,97,TRUE
+173,Grace,Adeyemi,grace.adeyemi173@library.com,+2348831441415,2024-11-22,Active,1979-09-19,Female,8 Main Street,Cape Town,Premium,72,TRUE
+174,Amina,Adeyemi,amina.adeyemi174@library.com,+2347393215561,2021-12-29,Inactive,1972-08-23,Male,197 Main Street,Dar es Salaam,Student,99,FALSE
+175,James,Brown,james.brown175@library.com,+2347876522204,2021-02-18,Inactive,1963-12-04,Female,156 Main Street,Kampala,Student,119,FALSE
+176,John,Adeyemi,john.adeyemi176@library.com,+2347637405296,2024-12-08,Active,2002-09-01,Female,107 Main Street,Abuja,Regular,0,TRUE
+177,David,Johnson,david.johnson177@library.com,+2347050241529,2023-08-05,Active,1970-06-22,Female,81 Main Street,Abuja,Regular,37,TRUE
+178,Grace,Adeyemi,grace.adeyemi178@library.com,+2347618579831,2023-05-11,Active,2005-02-05,Female,55 Main Street,Abuja,Regular,18,TRUE
+179,Amina,Adeyemi,amina.adeyemi179@library.com,+2347323333243,2022-06-04,Active,1976-08-04,Female,99 Main Street,Abuja,Premium,118,TRUE
+180,Michael,Brown,michael.brown180@library.com,+2347089625872,2022-07-08,Inactive,1978-05-04,Female,102 Main Street,Dar es Salaam,Regular,87,FALSE
+181,Amina,Mensah,amina.mensah181@library.com,+2347945053445,2022-09-16,Active,1984-09-28,Male,131 Main Street,Lagos,Student,36,TRUE
+182,Sophia,Brown,sophia.brown182@library.com,+2347844579942,2021-01-18,Active,1964-05-14,Female,5 Main Street,Abuja,Student,88,TRUE
+183,David,Okafor,david.okafor183@library.com,+2348446201506,2020-12-18,Inactive,1996-10-07,Male,172 Main Street,Lagos,Regular,56,FALSE
+184,Grace,Brown,grace.brown184@library.com,+2348004740646,2021-02-08,Inactive,1987-10-20,Male,130 Main Street,Kampala,Premium,93,FALSE
+185,Michael,Okafor,michael.okafor185@library.com,+2348047248056,2019-12-09,Inactive,1975-08-05,Male,2 Main Street,Accra,Premium,17,FALSE
+186,Michael,Adeyemi,michael.adeyemi186@library.com,+2347867157190,2021-02-12,Inactive,2003-06-27,Male,58 Main Street,Kampala,Premium,53,FALSE
+187,Mary,Brown,mary.brown187@library.com,+2347293995687,2024-09-02,Active,1978-03-05,Female,106 Main Street,Lagos,Student,61,TRUE
+188,John,Brown,john.brown188@library.com,+2348303320726,2018-02-14,Active,1979-11-28,Female,71 Main Street,Abuja,Premium,74,TRUE
+189,Mary,Garcia,mary.garcia189@library.com,+2348205677032,2018-04-01,Inactive,1971-06-20,Female,98 Main Street,Accra,Student,64,FALSE
+190,Mary,Johnson,mary.johnson190@library.com,+2347231724701,2020-06-16,Inactive,1981-07-11,Female,105 Main Street,Nairobi,Regular,96,FALSE
+191,Fatima,Garcia,fatima.garcia191@library.com,+2347615684477,2022-02-16,Active,1990-04-14,Female,183 Main Street,Accra,Student,80,TRUE
+192,Daniel,Okafor,daniel.okafor192@library.com,+2347974296960,2018-04-08,Inactive,2004-03-14,Male,148 Main Street,Kampala,Student,38,FALSE
+193,John,Johnson,john.johnson193@library.com,+2347286100109,2021-04-04,Inactive,1998-12-25,Female,165 Main Street,Kampala,Student,60,FALSE
+194,Grace,Garcia,grace.garcia194@library.com,+2348406177380,2018-12-22,Active,2002-09-07,Male,134 Main Street,Dar es Salaam,Premium,52,TRUE
+195,Amina,Adeyemi,amina.adeyemi195@library.com,+2347340626587,2018-06-23,Active,1994-11-06,Female,173 Main Street,Cairo,Student,51,TRUE
+196,John,Smith,john.smith196@library.com,+2348798278220,2019-11-27,Inactive,1995-03-13,Female,40 Main Street,Dar es Salaam,Student,29,FALSE
+197,Michael,Mensah,michael.mensah197@library.com,+2348619727519,2020-04-07,Active,1966-11-28,Female,145 Main Street,Cape Town,Regular,13,TRUE
+198,Fatima,Smith,fatima.smith198@library.com,+2347404273894,2022-03-16,Inactive,1972-09-05,Female,95 Main Street,Cairo,Student,46,FALSE
+199,John,Williams,john.williams199@library.com,+2347868034125,2024-02-12,Active,1983-06-02,Male,190 Main Street,Accra,Regular,12,TRUE
+200,Grace,Brown,grace.brown200@library.com,+2348946521910,2023-04-08,Active,1978-01-22,Female,26 Main Street,Dar es Salaam,Student,42,TRUE
+201,Grace,Adeyemi,grace.adeyemi201@library.com,+2347214050427,2023-04-28,Inactive,1969-12-16,Female,55 Main Street,Cairo,Regular,26,FALSE
+202,Amina,Williams,amina.williams202@library.com,+2348158626166,2020-10-27,Inactive,1981-07-30,Female,129 Main Street,Lagos,Regular,13,FALSE
+203,John,Smith,john.smith203@library.com,+2348255680271,2023-06-28,Active,2001-12-05,Male,109 Main Street,Cape Town,Premium,52,TRUE
+204,John,Bello,john.bello204@library.com,+2348229312047,2022-05-28,Active,1971-03-05,Female,81 Main Street,Kampala,Student,120,TRUE
+205,Sophia,Williams,sophia.williams205@library.com,+2349014244395,2020-01-16,Active,1972-09-20,Male,198 Main Street,Dar es Salaam,Regular,4,TRUE
+206,John,Brown,john.brown206@library.com,+2348075332470,2020-05-04,Inactive,1989-11-22,Female,30 Main Street,Abuja,Premium,34,FALSE
+207,Amina,Garcia,amina.garcia207@library.com,+2347936720196,2022-09-22,Active,2003-03-09,Male,42 Main Street,Accra,Regular,87,TRUE
+208,Sophia,Mensah,sophia.mensah208@library.com,+2347573193715,2020-11-06,Active,1975-05-15,Male,149 Main Street,Cape Town,Student,77,TRUE
+209,James,Brown,james.brown209@library.com,+2347735816948,2021-03-23,Inactive,1984-10-26,Female,46 Main Street,Abuja,Regular,74,FALSE
+210,Daniel,Okafor,daniel.okafor210@library.com,+2347709772048,2022-10-27,Inactive,1964-01-04,Male,93 Main Street,Accra,Premium,120,FALSE
+211,Michael,Johnson,michael.johnson211@library.com,+2347005387941,2020-08-02,Active,1982-04-14,Male,171 Main Street,Nairobi,Student,44,TRUE
+212,Fatima,Garcia,fatima.garcia212@library.com,+2347160398911,2024-07-01,Active,1993-06-27,Female,61 Main Street,Lagos,Regular,3,TRUE
+213,Daniel,Brown,daniel.brown213@library.com,+2347241844806,2024-09-19,Inactive,1966-09-09,Female,182 Main Street,Lagos,Premium,112,FALSE
+214,David,Adeyemi,david.adeyemi214@library.com,+2348329500065,2018-11-28,Inactive,1992-05-02,Female,189 Main Street,Abuja,Regular,82,FALSE
+215,Fatima,Johnson,fatima.johnson215@library.com,+2348489884712,2024-02-01,Active,1961-05-08,Female,106 Main Street,Kampala,Regular,107,TRUE
+216,Fatima,Garcia,fatima.garcia216@library.com,+2349075818912,2024-08-18,Active,1990-07-17,Male,197 Main Street,Nairobi,Regular,109,TRUE
+217,Grace,Mensah,grace.mensah217@library.com,+2348412662972,2023-04-26,Inactive,1969-06-08,Male,3 Main Street,Abuja,Student,42,FALSE
+218,Amina,Brown,amina.brown218@library.com,+2347375711329,2020-12-27,Active,1987-03-20,Male,28 Main Street,Nairobi,Student,97,TRUE
+219,Sophia,Martins,sophia.martins219@library.com,+2348210320832,2022-04-05,Active,1963-11-15,Female,187 Main Street,Dar es Salaam,Student,73,TRUE
+220,Daniel,Okafor,daniel.okafor220@library.com,+2347876995609,2020-12-19,Active,1966-06-20,Male,61 Main Street,Abuja,Regular,96,TRUE
+221,Mary,Mensah,mary.mensah221@library.com,+2348615479741,2019-06-09,Inactive,1982-07-27,Male,59 Main Street,Cape Town,Regular,95,FALSE
+222,Fatima,Brown,fatima.brown222@library.com,+2347010240695,2019-01-04,Active,2004-02-26,Female,162 Main Street,Abuja,Student,68,TRUE
+223,Amina,Brown,amina.brown223@library.com,+2347474552110,2018-09-02,Active,1963-06-09,Male,86 Main Street,Dar es Salaam,Premium,117,TRUE
+224,David,Brown,david.brown224@library.com,+2347190966258,2018-02-21,Active,1982-04-15,Female,93 Main Street,Cape Town,Student,77,TRUE
+225,Mary,Brown,mary.brown225@library.com,+2347447702661,2024-08-20,Active,1962-05-31,Female,144 Main Street,Accra,Premium,85,TRUE
+226,Sophia,Adeyemi,sophia.adeyemi226@library.com,+2348957892340,2018-03-15,Active,1980-04-27,Female,133 Main Street,Cairo,Premium,7,TRUE
+227,Sophia,Okafor,sophia.okafor227@library.com,+2348442506025,2019-12-11,Inactive,1962-06-19,Male,48 Main Street,Accra,Regular,10,FALSE
+228,John,Brown,john.brown228@library.com,+2348269805278,2018-10-06,Active,1973-07-28,Male,22 Main Street,Accra,Student,33,TRUE
+229,Daniel,Brown,daniel.brown229@library.com,+2348659121568,2024-06-13,Active,1960-01-13,Female,168 Main Street,Lagos,Student,90,TRUE
+230,John,Johnson,john.johnson230@library.com,+2348599925727,2021-08-10,Inactive,2004-10-28,Male,95 Main Street,Dar es Salaam,Regular,8,FALSE
+231,David,Johnson,david.johnson231@library.com,+2347808818100,2024-01-02,Inactive,2000-05-19,Female,42 Main Street,Nairobi,Regular,88,FALSE
+232,Daniel,Bello,daniel.bello232@library.com,+2349036561311,2020-09-27,Inactive,1987-02-04,Female,193 Main Street,Cairo,Student,71,FALSE
+233,James,Bello,james.bello233@library.com,+2348715795201,2024-05-02,Active,2002-07-26,Female,102 Main Street,Cape Town,Student,64,TRUE
+234,Amina,Martins,amina.martins234@library.com,+2348128126227,2018-07-27,Inactive,1979-08-15,Male,34 Main Street,Dar es Salaam,Student,6,FALSE
+235,Amina,Okafor,amina.okafor235@library.com,+2347400871729,2018-12-21,Inactive,1987-07-07,Male,161 Main Street,Abuja,Student,61,FALSE
+236,John,Garcia,john.garcia236@library.com,+2348358752125,2021-09-04,Active,1977-08-16,Female,52 Main Street,Accra,Student,92,TRUE
+237,David,Adeyemi,david.adeyemi237@library.com,+2347217680888,2019-08-06,Inactive,1985-07-17,Male,109 Main Street,Cape Town,Regular,100,FALSE
+238,Mary,Martins,mary.martins238@library.com,+2349009108684,2022-08-11,Active,1981-03-04,Female,187 Main Street,Cape Town,Student,69,TRUE
+239,Daniel,Martins,daniel.martins239@library.com,+2347819967375,2021-03-15,Inactive,1995-09-29,Female,124 Main Street,Accra,Premium,107,FALSE
+240,Mary,Brown,mary.brown240@library.com,+2348956020702,2019-11-23,Inactive,1969-01-18,Female,104 Main Street,Nairobi,Student,35,FALSE
+241,John,Smith,john.smith241@library.com,+2347551192515,2019-12-11,Inactive,1984-08-16,Female,71 Main Street,Abuja,Premium,38,FALSE
+242,Daniel,Martins,daniel.martins242@library.com,+2348568574803,2019-02-03,Active,2004-12-16,Male,151 Main Street,Cairo,Student,18,TRUE
+243,John,Johnson,john.johnson243@library.com,+2348766418044,2019-05-30,Active,2004-02-14,Male,93 Main Street,Abuja,Student,77,TRUE
+244,Daniel,Johnson,daniel.johnson244@library.com,+2348123454270,2022-01-21,Inactive,1988-01-10,Female,99 Main Street,Kampala,Student,76,FALSE
+245,James,Garcia,james.garcia245@library.com,+2348530082137,2021-05-26,Inactive,1966-01-07,Male,135 Main Street,Dar es Salaam,Regular,19,FALSE
+246,Grace,Brown,grace.brown246@library.com,+2347874170093,2020-06-15,Active,1985-09-11,Female,16 Main Street,Kampala,Student,95,TRUE
+247,Amina,Okafor,amina.okafor247@library.com,+2348699832619,2021-04-25,Active,1995-10-06,Female,86 Main Street,Cairo,Regular,29,TRUE
+248,Daniel,Williams,daniel.williams248@library.com,+2348740833779,2022-09-10,Inactive,1986-02-07,Female,145 Main Street,Dar es Salaam,Premium,0,FALSE
+249,Grace,Martins,grace.martins249@library.com,+2348290662563,2020-05-27,Inactive,1972-04-08,Female,84 Main Street,Cape Town,Student,83,FALSE
+250,Sophia,Martins,sophia.martins250@library.com,+2347138067472,2019-03-28,Inactive,1962-10-26,Female,18 Main Street,Accra,Student,28,FALSE
+251,Michael,Bello,michael.bello251@library.com,+2348346952556,2018-11-04,Active,1962-08-22,Male,181 Main Street,Dar es Salaam,Premium,117,TRUE
+252,Amina,Smith,amina.smith252@library.com,+2348795964840,2021-05-30,Inactive,1979-07-06,Male,93 Main Street,Cape Town,Student,110,FALSE
+253,Michael,Brown,michael.brown253@library.com,+2347744969371,2023-07-27,Inactive,1991-02-05,Female,127 Main Street,Abuja,Student,107,FALSE
+254,Amina,Mensah,amina.mensah254@library.com,+2348072067351,2023-12-12,Active,2002-12-08,Male,104 Main Street,Dar es Salaam,Premium,41,TRUE
+255,David,Brown,david.brown255@library.com,+2349028053776,2021-12-24,Active,1973-08-28,Female,34 Main Street,Kampala,Student,75,TRUE
+256,Michael,Smith,michael.smith256@library.com,+2347991672105,2018-08-26,Active,1979-06-28,Male,63 Main Street,Accra,Student,8,TRUE
+257,Amina,Bello,amina.bello257@library.com,+2347374618467,2022-02-16,Inactive,1983-05-17,Female,83 Main Street,Dar es Salaam,Premium,65,FALSE
+258,Fatima,Brown,fatima.brown258@library.com,+2347882997550,2022-08-04,Inactive,1983-02-19,Male,99 Main Street,Abuja,Student,14,FALSE
+259,Sophia,Garcia,sophia.garcia259@library.com,+2348499147756,2024-07-10,Inactive,1972-01-01,Female,33 Main Street,Cairo,Student,64,FALSE
+260,Mary,Smith,mary.smith260@library.com,+2348065080683,2019-09-13,Inactive,1979-01-19,Female,81 Main Street,Abuja,Student,6,FALSE
+261,James,Adeyemi,james.adeyemi261@library.com,+2347296980927,2024-07-11,Active,1989-01-25,Female,10 Main Street,Dar es Salaam,Regular,40,TRUE
+262,Sophia,Martins,sophia.martins262@library.com,+2348958930519,2018-11-12,Inactive,1974-02-10,Female,193 Main Street,Cairo,Student,100,FALSE
+263,Mary,Martins,mary.martins263@library.com,+2347780317383,2022-12-08,Active,1982-10-28,Female,39 Main Street,Kampala,Premium,7,TRUE
+264,Fatima,Garcia,fatima.garcia264@library.com,+2348685635444,2018-02-15,Inactive,1999-03-30,Male,10 Main Street,Lagos,Premium,15,FALSE
+265,Amina,Mensah,amina.mensah265@library.com,+2347549974048,2021-07-25,Inactive,2003-10-09,Male,28 Main Street,Cairo,Premium,105,FALSE
+266,David,Garcia,david.garcia266@library.com,+2349047199525,2020-07-04,Inactive,1983-05-31,Female,56 Main Street,Cairo,Premium,112,FALSE
+267,Fatima,Adeyemi,fatima.adeyemi267@library.com,+2348121029422,2023-10-29,Active,1961-06-08,Female,39 Main Street,Lagos,Regular,109,TRUE
+268,Daniel,Smith,daniel.smith268@library.com,+2347013252045,2021-03-09,Inactive,1988-04-14,Female,49 Main Street,Kampala,Premium,113,FALSE
+269,Daniel,Garcia,daniel.garcia269@library.com,+2348018286279,2020-04-06,Inactive,2000-09-17,Female,183 Main Street,Nairobi,Regular,39,FALSE
+270,Daniel,Garcia,daniel.garcia270@library.com,+2348890697325,2020-01-25,Active,1986-12-28,Male,134 Main Street,Abuja,Student,56,TRUE
+271,Michael,Bello,michael.bello271@library.com,+2348462387499,2021-08-07,Inactive,1973-02-15,Female,154 Main Street,Abuja,Premium,29,FALSE
+272,David,Adeyemi,david.adeyemi272@library.com,+2347382156395,2022-11-30,Inactive,1989-07-14,Female,181 Main Street,Lagos,Regular,113,FALSE
+273,Amina,Garcia,amina.garcia273@library.com,+2348549926632,2023-04-03,Active,1998-12-18,Male,120 Main Street,Dar es Salaam,Student,9,TRUE
+274,Mary,Smith,mary.smith274@library.com,+2347585323601,2023-04-13,Inactive,1986-06-09,Male,177 Main Street,Accra,Premium,90,FALSE
+275,John,Adeyemi,john.adeyemi275@library.com,+2348682029714,2021-12-01,Active,1970-08-22,Male,127 Main Street,Nairobi,Student,12,TRUE
+276,Mary,Adeyemi,mary.adeyemi276@library.com,+2348490506481,2022-10-24,Active,1970-12-08,Female,3 Main Street,Cairo,Premium,45,TRUE
+277,James,Okafor,james.okafor277@library.com,+2348622454363,2022-08-24,Inactive,1984-08-15,Female,125 Main Street,Abuja,Student,90,FALSE
+278,John,Brown,john.brown278@library.com,+2347708417632,2024-08-27,Active,1988-01-20,Male,28 Main Street,Cape Town,Premium,101,TRUE
+279,John,Bello,john.bello279@library.com,+2347594211316,2020-02-27,Active,1998-03-01,Female,128 Main Street,Dar es Salaam,Premium,39,TRUE
+280,Fatima,Garcia,fatima.garcia280@library.com,+2348567543229,2019-01-29,Inactive,1980-07-29,Male,173 Main Street,Cairo,Regular,83,FALSE
+281,Mary,Martins,mary.martins281@library.com,+2347741838004,2023-01-25,Inactive,1969-10-10,Male,197 Main Street,Cape Town,Premium,51,FALSE
+282,Fatima,Garcia,fatima.garcia282@library.com,+2347617724634,2023-04-27,Inactive,1963-07-10,Male,114 Main Street,Dar es Salaam,Premium,43,FALSE
+283,Daniel,Williams,daniel.williams283@library.com,+2348333022781,2022-09-17,Inactive,1975-01-23,Male,135 Main Street,Dar es Salaam,Premium,56,FALSE
+284,James,Garcia,james.garcia284@library.com,+2347873032766,2022-11-24,Inactive,1962-12-20,Female,16 Main Street,Dar es Salaam,Regular,105,FALSE
+285,Amina,Adeyemi,amina.adeyemi285@library.com,+2347109193057,2022-08-27,Inactive,1986-05-03,Female,140 Main Street,Cairo,Regular,109,FALSE
+286,Michael,Smith,michael.smith286@library.com,+2348554999515,2024-09-21,Active,1973-09-16,Female,91 Main Street,Accra,Regular,51,TRUE
+287,Fatima,Adeyemi,fatima.adeyemi287@library.com,+2347017201480,2021-05-01,Inactive,1994-02-04,Female,196 Main Street,Lagos,Student,72,FALSE
+288,James,Mensah,james.mensah288@library.com,+2348345191420,2018-07-13,Inactive,1973-04-26,Male,189 Main Street,Kampala,Student,16,FALSE
+289,James,Okafor,james.okafor289@library.com,+2347599192725,2023-03-31,Inactive,1974-05-18,Male,42 Main Street,Dar es Salaam,Regular,105,FALSE
+290,Fatima,Martins,fatima.martins290@library.com,+2348585787279,2018-12-29,Inactive,1963-05-23,Male,17 Main Street,Kampala,Student,10,FALSE
+291,Amina,Okafor,amina.okafor291@library.com,+2347536901319,2020-12-28,Active,1977-10-06,Female,108 Main Street,Abuja,Student,61,TRUE
+292,Daniel,Johnson,daniel.johnson292@library.com,+2347828134941,2024-08-11,Active,1984-03-23,Female,180 Main Street,Accra,Student,71,TRUE
+293,James,Smith,james.smith293@library.com,+2347447046672,2024-07-28,Active,1969-12-26,Male,194 Main Street,Lagos,Premium,11,TRUE
+294,Mary,Smith,mary.smith294@library.com,+2347581889084,2019-11-28,Inactive,1965-02-21,Male,191 Main Street,Accra,Student,39,FALSE
+295,Sophia,Okafor,sophia.okafor295@library.com,+2347266747540,2024-01-06,Inactive,1978-03-17,Female,160 Main Street,Nairobi,Student,56,FALSE
+296,James,Johnson,james.johnson296@library.com,+2347019320252,2020-09-03,Inactive,1960-02-03,Male,40 Main Street,Accra,Premium,73,FALSE
+297,David,Mensah,david.mensah297@library.com,+2347805861041,2020-06-12,Active,1992-07-08,Female,23 Main Street,Abuja,Premium,9,TRUE
+298,Fatima,Garcia,fatima.garcia298@library.com,+2347253981173,2021-08-04,Active,1970-06-01,Male,16 Main Street,Dar es Salaam,Regular,39,TRUE
+299,Amina,Garcia,amina.garcia299@library.com,+2348535874168,2024-03-18,Inactive,1999-06-23,Female,63 Main Street,Lagos,Student,91,FALSE
+300,James,Okafor,james.okafor300@library.com,+2347043331402,2024-10-27,Inactive,1987-01-04,Female,58 Main Street,Accra,Student,38,FALSE
+301,Amina,Bello,amina.bello301@library.com,+2347225613469,2024-09-14,Active,1964-03-04,Female,185 Main Street,Cape Town,Premium,16,TRUE
+302,Mary,Williams,mary.williams302@library.com,+2347843331602,2019-06-16,Inactive,1994-06-21,Female,52 Main Street,Cairo,Premium,88,FALSE
+303,Mary,Martins,mary.martins303@library.com,+2348912978207,2019-09-06,Active,1991-02-12,Male,158 Main Street,Lagos,Regular,16,TRUE
+304,Michael,Okafor,michael.okafor304@library.com,+2348272310398,2024-12-26,Inactive,2004-03-20,Male,126 Main Street,Cape Town,Premium,111,FALSE
+305,Michael,Martins,michael.martins305@library.com,+2347871597021,2022-04-20,Inactive,1996-05-05,Male,78 Main Street,Accra,Premium,67,FALSE
+306,Mary,Williams,mary.williams306@library.com,+2347993970496,2018-12-22,Inactive,1964-09-16,Male,47 Main Street,Cairo,Premium,104,FALSE
+307,Daniel,Williams,daniel.williams307@library.com,+2348556286067,2023-07-21,Inactive,1960-10-17,Female,42 Main Street,Dar es Salaam,Student,17,FALSE
+308,Mary,Bello,mary.bello308@library.com,+2347266204927,2021-06-29,Inactive,1978-12-31,Female,47 Main Street,Lagos,Regular,27,FALSE
+309,Mary,Martins,mary.martins309@library.com,+2347248035764,2024-01-11,Active,1967-07-03,Female,144 Main Street,Nairobi,Premium,12,TRUE
+310,Mary,Smith,mary.smith310@library.com,+2347014035899,2018-07-19,Inactive,1992-05-02,Female,155 Main Street,Cairo,Premium,107,FALSE
+311,Amina,Williams,amina.williams311@library.com,+2348650389933,2024-02-18,Inactive,1987-02-08,Female,148 Main Street,Cairo,Student,68,FALSE
+312,Daniel,Adeyemi,daniel.adeyemi312@library.com,+2347167797101,2020-10-14,Inactive,1968-01-08,Male,193 Main Street,Kampala,Regular,34,FALSE
+313,Daniel,Adeyemi,daniel.adeyemi313@library.com,+2347075111128,2022-10-20,Inactive,1972-12-06,Male,127 Main Street,Accra,Regular,15,FALSE
+314,James,Johnson,james.johnson314@library.com,+2347241338449,2024-05-02,Active,1976-05-02,Female,190 Main Street,Cairo,Premium,16,TRUE
+315,David,Okafor,david.okafor315@library.com,+2348393256950,2018-05-24,Active,1970-07-15,Male,80 Main Street,Kampala,Regular,9,TRUE
+316,John,Brown,john.brown316@library.com,+2348224626813,2020-08-19,Active,1991-07-20,Female,14 Main Street,Dar es Salaam,Premium,70,TRUE
+317,Mary,Martins,mary.martins317@library.com,+2347996791634,2021-12-22,Active,2004-05-12,Female,86 Main Street,Cairo,Student,99,TRUE
+318,Fatima,Garcia,fatima.garcia318@library.com,+2348821971276,2024-04-22,Inactive,1973-08-03,Female,165 Main Street,Accra,Premium,108,FALSE
+319,John,Smith,john.smith319@library.com,+2349037335767,2022-04-06,Active,1979-08-14,Female,79 Main Street,Kampala,Regular,32,TRUE
+320,Michael,Bello,michael.bello320@library.com,+2347628685884,2024-07-18,Active,1971-01-18,Female,3 Main Street,Accra,Student,39,TRUE
+321,Fatima,Smith,fatima.smith321@library.com,+2347460183311,2024-12-02,Active,1973-09-01,Male,36 Main Street,Dar es Salaam,Regular,67,TRUE
+322,David,Williams,david.williams322@library.com,+2348091512904,2019-10-07,Inactive,1961-12-20,Female,193 Main Street,Dar es Salaam,Regular,6,FALSE
+323,Michael,Williams,michael.williams323@library.com,+2347541962787,2018-01-15,Inactive,1986-11-25,Female,62 Main Street,Dar es Salaam,Premium,20,FALSE
+324,John,Brown,john.brown324@library.com,+2347780938843,2019-03-22,Inactive,1995-08-05,Male,142 Main Street,Cairo,Student,45,FALSE
+325,Michael,Okafor,michael.okafor325@library.com,+2349088654703,2022-01-12,Active,1998-06-13,Male,64 Main Street,Kampala,Regular,44,TRUE
+326,Michael,Williams,michael.williams326@library.com,+2348287732401,2024-01-31,Inactive,1967-11-27,Female,18 Main Street,Abuja,Premium,15,FALSE
+327,Amina,Brown,amina.brown327@library.com,+2347358453196,2023-03-26,Active,1970-03-13,Male,170 Main Street,Accra,Premium,37,TRUE
+328,David,Bello,david.bello328@library.com,+2348591986671,2022-04-14,Active,1969-12-28,Male,176 Main Street,Cape Town,Premium,93,TRUE
+329,Fatima,Williams,fatima.williams329@library.com,+2348909604265,2022-05-06,Inactive,1972-08-19,Female,5 Main Street,Dar es Salaam,Premium,108,FALSE
+330,James,Adeyemi,james.adeyemi330@library.com,+2347161983862,2018-11-14,Inactive,1981-08-23,Female,10 Main Street,Cape Town,Regular,30,FALSE
+331,Michael,Martins,michael.martins331@library.com,+2348263539575,2021-10-17,Active,1986-01-30,Male,93 Main Street,Nairobi,Premium,108,TRUE
+332,James,Garcia,james.garcia332@library.com,+2348002432698,2024-07-01,Active,2001-05-22,Male,70 Main Street,Lagos,Premium,29,TRUE
+333,Grace,Adeyemi,grace.adeyemi333@library.com,+2348270366371,2021-01-01,Active,1961-03-31,Male,193 Main Street,Accra,Premium,111,TRUE
+334,Amina,Bello,amina.bello334@library.com,+2347387791370,2023-02-28,Active,1968-01-19,Female,138 Main Street,Abuja,Student,14,TRUE
+335,Grace,Garcia,grace.garcia335@library.com,+2347882662535,2020-11-01,Inactive,1980-10-14,Female,179 Main Street,Cape Town,Student,82,FALSE
+336,Daniel,Mensah,daniel.mensah336@library.com,+2349069387069,2021-05-19,Inactive,1997-07-27,Male,54 Main Street,Nairobi,Regular,99,FALSE
+337,Mary,Williams,mary.williams337@library.com,+2348870307014,2023-12-05,Active,1975-09-10,Female,44 Main Street,Kampala,Student,45,TRUE
+338,Michael,Johnson,michael.johnson338@library.com,+2348406160190,2018-02-10,Inactive,1987-03-16,Male,162 Main Street,Lagos,Premium,68,FALSE
+339,Amina,Johnson,amina.johnson339@library.com,+2347228218420,2024-09-30,Inactive,2005-03-05,Male,192 Main Street,Dar es Salaam,Premium,119,FALSE
+340,Michael,Mensah,michael.mensah340@library.com,+2348046462142,2024-04-23,Inactive,2003-07-04,Female,182 Main Street,Lagos,Premium,79,FALSE
+341,Amina,Adeyemi,amina.adeyemi341@library.com,+2347134145859,2022-12-01,Inactive,1996-04-17,Male,49 Main Street,Abuja,Regular,74,FALSE
+342,Mary,Okafor,mary.okafor342@library.com,+2349064183535,2023-04-06,Active,2003-09-02,Male,78 Main Street,Dar es Salaam,Student,74,TRUE
+343,Amina,Martins,amina.martins343@library.com,+2348981784182,2023-06-03,Inactive,1973-03-08,Male,25 Main Street,Lagos,Premium,90,FALSE
+344,David,Adeyemi,david.adeyemi344@library.com,+2347924293802,2024-06-08,Inactive,1979-02-16,Female,18 Main Street,Kampala,Premium,37,FALSE
+345,Daniel,Smith,daniel.smith345@library.com,+2347091406561,2024-01-27,Active,1983-12-19,Female,18 Main Street,Nairobi,Premium,105,TRUE
+346,Daniel,Brown,daniel.brown346@library.com,+2347765657857,2020-07-01,Active,1973-05-01,Female,165 Main Street,Nairobi,Student,67,TRUE
+347,Grace,Martins,grace.martins347@library.com,+2348384436960,2018-04-20,Active,1976-11-07,Male,73 Main Street,Accra,Premium,49,TRUE
+348,Grace,Johnson,grace.johnson348@library.com,+2348608178339,2018-01-01,Active,1998-03-30,Male,28 Main Street,Accra,Premium,50,TRUE
+349,Sophia,Johnson,sophia.johnson349@library.com,+2347353219869,2019-01-01,Active,1973-12-12,Male,147 Main Street,Lagos,Regular,89,TRUE
+350,John,Adeyemi,john.adeyemi350@library.com,+2348530999662,2023-12-23,Inactive,1999-12-16,Male,139 Main Street,Cairo,Student,114,FALSE
+351,Fatima,Okafor,fatima.okafor351@library.com,+2347742897167,2024-04-16,Active,2004-08-26,Female,147 Main Street,Lagos,Student,78,TRUE
+352,Grace,Okafor,grace.okafor352@library.com,+2348417539716,2023-05-26,Inactive,1976-08-18,Male,2 Main Street,Dar es Salaam,Student,108,FALSE
+353,John,Smith,john.smith353@library.com,+2348723969794,2020-05-24,Inactive,1996-12-31,Female,55 Main Street,Cairo,Regular,71,FALSE
+354,John,Bello,john.bello354@library.com,+2348325967539,2024-10-12,Inactive,1986-02-04,Male,50 Main Street,Lagos,Premium,108,FALSE
+355,Grace,Brown,grace.brown355@library.com,+2348046832032,2023-04-03,Active,2005-07-02,Male,192 Main Street,Dar es Salaam,Premium,37,TRUE
+356,John,Garcia,john.garcia356@library.com,+2348998047569,2021-11-02,Inactive,1972-12-11,Female,25 Main Street,Accra,Student,82,FALSE
+357,David,Mensah,david.mensah357@library.com,+2348669498402,2020-09-20,Inactive,1975-10-04,Male,134 Main Street,Lagos,Premium,24,FALSE
+358,Michael,Williams,michael.williams358@library.com,+2347644042942,2020-01-27,Active,1967-06-15,Male,99 Main Street,Lagos,Premium,102,TRUE
+359,James,Smith,james.smith359@library.com,+2348874218744,2020-06-07,Inactive,1971-05-28,Male,75 Main Street,Abuja,Student,97,FALSE
+360,James,Smith,james.smith360@library.com,+2348653743314,2018-01-18,Active,1965-10-07,Male,187 Main Street,Dar es Salaam,Student,9,TRUE
+361,James,Brown,james.brown361@library.com,+2348850027794,2024-12-21,Inactive,1972-11-02,Male,73 Main Street,Nairobi,Premium,84,FALSE
+362,Sophia,Garcia,sophia.garcia362@library.com,+2348835453738,2020-11-06,Active,1962-05-30,Female,131 Main Street,Kampala,Regular,98,TRUE
+363,David,Martins,david.martins363@library.com,+2347067339034,2022-04-09,Inactive,1968-08-19,Male,130 Main Street,Lagos,Student,66,FALSE
+364,Mary,Bello,mary.bello364@library.com,+2348717774480,2021-08-26,Active,1987-09-05,Female,39 Main Street,Kampala,Student,116,TRUE
+365,Michael,Martins,michael.martins365@library.com,+2347781544884,2023-07-19,Active,1969-12-01,Male,129 Main Street,Abuja,Student,73,TRUE
+366,Sophia,Okafor,sophia.okafor366@library.com,+2348499898155,2021-05-10,Inactive,1969-03-16,Male,121 Main Street,Abuja,Premium,60,FALSE
+367,Fatima,Williams,fatima.williams367@library.com,+2347330313127,2024-05-31,Inactive,2002-09-22,Male,123 Main Street,Kampala,Student,97,FALSE
+368,Daniel,Smith,daniel.smith368@library.com,+2348705443371,2024-05-22,Active,1974-07-02,Female,139 Main Street,Abuja,Premium,31,TRUE
+369,John,Mensah,john.mensah369@library.com,+2348701885319,2020-08-30,Active,2004-12-29,Male,193 Main Street,Cape Town,Student,67,TRUE
+370,Fatima,Johnson,fatima.johnson370@library.com,+2347674539885,2024-06-04,Inactive,1983-10-07,Male,124 Main Street,Cape Town,Regular,107,FALSE
+371,Grace,Bello,grace.bello371@library.com,+2348917764082,2023-03-10,Inactive,1968-03-23,Male,100 Main Street,Lagos,Regular,81,FALSE
+372,Grace,Smith,grace.smith372@library.com,+2348749582181,2024-12-11,Inactive,1980-12-24,Male,153 Main Street,Nairobi,Student,113,FALSE
+373,Michael,Williams,michael.williams373@library.com,+2347431885059,2023-09-26,Active,2000-02-29,Male,57 Main Street,Nairobi,Premium,97,TRUE
+374,Daniel,Brown,daniel.brown374@library.com,+2348170836970,2019-08-28,Inactive,1960-08-09,Female,6 Main Street,Accra,Student,66,FALSE
+375,Mary,Adeyemi,mary.adeyemi375@library.com,+2347203764281,2024-06-21,Inactive,1986-06-17,Female,163 Main Street,Cape Town,Premium,24,FALSE
+376,Mary,Williams,mary.williams376@library.com,+2347915750894,2021-08-12,Active,1978-01-04,Female,176 Main Street,Nairobi,Student,104,TRUE
+377,David,Smith,david.smith377@library.com,+2347455314325,2020-04-11,Active,2001-08-08,Female,146 Main Street,Lagos,Regular,35,TRUE
+378,David,Williams,david.williams378@library.com,+2347239048033,2023-02-01,Active,1972-12-02,Female,113 Main Street,Dar es Salaam,Regular,22,TRUE
+379,Amina,Martins,amina.martins379@library.com,+2348369998604,2019-03-22,Active,1991-07-31,Male,107 Main Street,Cape Town,Regular,70,TRUE
+380,Fatima,Garcia,fatima.garcia380@library.com,+2347774435653,2021-05-12,Inactive,1962-07-05,Female,178 Main Street,Cape Town,Student,101,FALSE
+381,Fatima,Martins,fatima.martins381@library.com,+2348170053322,2019-02-04,Active,1991-12-15,Male,80 Main Street,Accra,Regular,71,TRUE
+382,Sophia,Adeyemi,sophia.adeyemi382@library.com,+2347818145637,2019-08-27,Inactive,1987-02-21,Male,80 Main Street,Cape Town,Student,47,FALSE
+383,Daniel,Smith,daniel.smith383@library.com,+2347941250670,2023-03-13,Inactive,1987-11-04,Female,60 Main Street,Accra,Premium,32,FALSE
+384,Sophia,Martins,sophia.martins384@library.com,+2347775434099,2024-11-28,Inactive,1962-12-05,Female,33 Main Street,Abuja,Regular,104,FALSE
+385,Sophia,Brown,sophia.brown385@library.com,+2348143735598,2023-04-13,Inactive,1966-04-13,Male,182 Main Street,Dar es Salaam,Premium,48,FALSE
+386,John,Garcia,john.garcia386@library.com,+2348877719501,2023-09-10,Active,1996-08-23,Female,89 Main Street,Lagos,Premium,79,TRUE
+387,Michael,Adeyemi,michael.adeyemi387@library.com,+2349049433231,2018-07-22,Active,1992-11-17,Male,37 Main Street,Dar es Salaam,Regular,113,TRUE
+388,James,Mensah,james.mensah388@library.com,+2348948560529,2019-01-09,Inactive,1977-06-28,Female,200 Main Street,Dar es Salaam,Regular,118,FALSE
+389,Grace,Brown,grace.brown389@library.com,+2348385242990,2021-12-22,Active,1975-09-08,Male,110 Main Street,Cape Town,Student,2,TRUE
+390,David,Williams,david.williams390@library.com,+2348804223538,2023-10-09,Active,1994-07-31,Female,21 Main Street,Cairo,Student,68,TRUE
+391,Grace,Johnson,grace.johnson391@library.com,+2348505610603,2022-05-24,Inactive,1997-10-09,Female,156 Main Street,Dar es Salaam,Premium,101,FALSE
+392,Sophia,Adeyemi,sophia.adeyemi392@library.com,+2348231219625,2024-02-13,Active,1993-01-31,Male,71 Main Street,Lagos,Student,29,TRUE
+393,Amina,Williams,amina.williams393@library.com,+2348011975326,2019-08-04,Active,1986-10-26,Male,134 Main Street,Accra,Regular,25,TRUE
+394,Mary,Garcia,mary.garcia394@library.com,+2348539389912,2024-06-29,Inactive,2001-11-03,Female,121 Main Street,Nairobi,Regular,114,FALSE
+395,Michael,Garcia,michael.garcia395@library.com,+2347772807766,2024-01-06,Inactive,2001-10-17,Male,81 Main Street,Cape Town,Premium,24,FALSE
+396,John,Bello,john.bello396@library.com,+2347080808053,2019-08-10,Active,1999-12-30,Female,150 Main Street,Cairo,Premium,12,TRUE
+397,Mary,Johnson,mary.johnson397@library.com,+2347795976721,2021-02-16,Inactive,2000-04-05,Male,91 Main Street,Cairo,Regular,94,FALSE
+398,David,Martins,david.martins398@library.com,+2347104328695,2019-10-18,Active,1999-08-16,Male,177 Main Street,Accra,Regular,104,TRUE
+399,John,Bello,john.bello399@library.com,+2348983792424,2023-04-02,Inactive,1996-02-08,Male,148 Main Street,Nairobi,Student,95,FALSE
+400,John,Garcia,john.garcia400@library.com,+2348819449780,2020-11-02,Inactive,1971-07-24,Female,136 Main Street,Kampala,Premium,110,FALSE
+401,Michael,Smith,michael.smith401@library.com,+2348118463192,2023-06-06,Inactive,1989-08-30,Female,104 Main Street,Abuja,Regular,51,FALSE
+402,Sophia,Brown,sophia.brown402@library.com,+2348840223704,2019-12-13,Inactive,2000-03-14,Male,21 Main Street,Cape Town,Regular,40,FALSE
+403,John,Adeyemi,john.adeyemi403@library.com,+2347673176341,2018-06-30,Active,2004-02-28,Male,15 Main Street,Dar es Salaam,Regular,37,TRUE
+404,Michael,Johnson,michael.johnson404@library.com,+2347328150368,2023-01-18,Active,2002-01-19,Female,60 Main Street,Cape Town,Premium,30,TRUE
+405,James,Mensah,james.mensah405@library.com,+2348744086269,2018-08-10,Inactive,1960-08-23,Male,134 Main Street,Cairo,Regular,85,FALSE
+406,Fatima,Mensah,fatima.mensah406@library.com,+2349046257878,2024-12-31,Active,1989-07-29,Male,85 Main Street,Nairobi,Student,11,TRUE
+407,Amina,Williams,amina.williams407@library.com,+2347535376442,2018-12-03,Active,1978-03-04,Female,191 Main Street,Accra,Student,0,TRUE
+408,David,Mensah,david.mensah408@library.com,+2348013503960,2022-11-17,Inactive,1979-11-29,Female,27 Main Street,Nairobi,Student,0,FALSE
+409,Michael,Adeyemi,michael.adeyemi409@library.com,+2347421138870,2022-01-08,Active,1975-02-02,Female,118 Main Street,Cairo,Student,37,TRUE
+410,Amina,Johnson,amina.johnson410@library.com,+2348757876793,2021-11-21,Inactive,1968-05-14,Female,142 Main Street,Cairo,Student,64,FALSE
+411,Michael,Garcia,michael.garcia411@library.com,+2347589334672,2020-07-22,Inactive,1969-08-10,Female,23 Main Street,Dar es Salaam,Regular,76,FALSE
+412,Sophia,Mensah,sophia.mensah412@library.com,+2347428490749,2020-06-27,Active,1986-03-26,Male,161 Main Street,Accra,Student,55,TRUE
+413,Michael,Okafor,michael.okafor413@library.com,+2347295341903,2024-04-01,Active,1962-08-21,Female,155 Main Street,Accra,Student,106,TRUE
+414,James,Johnson,james.johnson414@library.com,+2348743114656,2024-01-14,Active,1986-03-23,Female,118 Main Street,Cairo,Premium,65,TRUE
+415,Sophia,Smith,sophia.smith415@library.com,+2347737353759,2019-09-10,Inactive,1967-04-20,Female,149 Main Street,Cairo,Premium,111,FALSE
+416,Fatima,Garcia,fatima.garcia416@library.com,+2348033502471,2020-06-08,Inactive,1968-03-22,Male,105 Main Street,Lagos,Regular,14,FALSE
+417,Fatima,Smith,fatima.smith417@library.com,+2347643990006,2021-12-02,Inactive,1985-03-16,Female,142 Main Street,Cairo,Student,84,FALSE
+418,David,Mensah,david.mensah418@library.com,+2347716460734,2023-10-15,Inactive,1996-03-23,Male,158 Main Street,Nairobi,Regular,58,FALSE
+419,Daniel,Martins,daniel.martins419@library.com,+2349098264104,2023-11-27,Active,1987-09-15,Male,97 Main Street,Kampala,Student,97,TRUE
+420,James,Adeyemi,james.adeyemi420@library.com,+2347719987512,2022-02-14,Active,1966-01-24,Male,37 Main Street,Cape Town,Student,40,TRUE
+421,James,Okafor,james.okafor421@library.com,+2347548761541,2019-10-12,Active,1961-06-28,Male,191 Main Street,Accra,Regular,58,TRUE
+422,Mary,Adeyemi,mary.adeyemi422@library.com,+2347362900347,2019-12-10,Active,1980-06-06,Male,56 Main Street,Accra,Premium,100,TRUE
+423,Mary,Brown,mary.brown423@library.com,+2348314794664,2021-12-01,Active,1983-04-06,Male,145 Main Street,Lagos,Premium,32,TRUE
+424,David,Martins,david.martins424@library.com,+2347745038048,2018-05-16,Active,1994-03-27,Female,60 Main Street,Accra,Regular,10,TRUE
+425,Fatima,Smith,fatima.smith425@library.com,+2347969850362,2021-05-09,Inactive,1989-10-04,Female,12 Main Street,Cairo,Premium,84,FALSE
+426,Amina,Mensah,amina.mensah426@library.com,+2348270016370,2023-02-26,Active,2004-10-24,Female,165 Main Street,Abuja,Student,73,TRUE
+427,Fatima,Adeyemi,fatima.adeyemi427@library.com,+2348316382529,2024-07-21,Inactive,1981-01-02,Female,197 Main Street,Nairobi,Student,64,FALSE
+428,Mary,Garcia,mary.garcia428@library.com,+2348883643881,2021-09-29,Inactive,1985-08-13,Female,129 Main Street,Nairobi,Regular,66,FALSE
+429,Amina,Martins,amina.martins429@library.com,+2347528524774,2021-10-03,Inactive,1977-01-08,Female,72 Main Street,Abuja,Student,108,FALSE
+430,Michael,Smith,michael.smith430@library.com,+2347720366681,2019-06-16,Active,2004-07-28,Male,167 Main Street,Abuja,Premium,73,TRUE
+431,Fatima,Okafor,fatima.okafor431@library.com,+2347060870214,2023-10-22,Active,1987-08-05,Female,192 Main Street,Dar es Salaam,Student,74,TRUE
+432,Grace,Martins,grace.martins432@library.com,+2348787363141,2018-09-28,Active,1977-11-30,Female,88 Main Street,Accra,Premium,72,TRUE
+433,Mary,Adeyemi,mary.adeyemi433@library.com,+2348373686183,2018-08-01,Inactive,1967-11-19,Female,151 Main Street,Accra,Regular,62,FALSE
+434,Sophia,Mensah,sophia.mensah434@library.com,+2348665927914,2021-12-20,Active,1995-10-25,Female,126 Main Street,Cairo,Regular,115,TRUE
+435,Daniel,Garcia,daniel.garcia435@library.com,+2348643893698,2018-07-02,Inactive,1976-02-04,Female,35 Main Street,Lagos,Student,71,FALSE
+436,John,Garcia,john.garcia436@library.com,+2347438956685,2018-08-15,Inactive,1979-03-07,Female,172 Main Street,Nairobi,Regular,20,FALSE
+437,Sophia,Martins,sophia.martins437@library.com,+2347672359415,2024-03-18,Inactive,1991-09-25,Male,22 Main Street,Lagos,Student,10,FALSE
+438,Michael,Mensah,michael.mensah438@library.com,+2347209924801,2019-07-15,Inactive,1987-07-24,Female,178 Main Street,Cairo,Premium,103,FALSE
+439,Mary,Johnson,mary.johnson439@library.com,+2347163722059,2019-09-03,Active,1986-03-07,Female,100 Main Street,Accra,Regular,112,TRUE
+440,Mary,Williams,mary.williams440@library.com,+2348341133770,2021-10-19,Inactive,1964-03-10,Male,80 Main Street,Dar es Salaam,Premium,30,FALSE
+441,Amina,Smith,amina.smith441@library.com,+2349050772342,2018-01-12,Inactive,1973-06-19,Female,33 Main Street,Cairo,Regular,44,FALSE
+442,John,Williams,john.williams442@library.com,+2348412908124,2020-09-15,Inactive,2002-07-27,Female,133 Main Street,Nairobi,Regular,58,FALSE
+443,David,Garcia,david.garcia443@library.com,+2347969303494,2019-05-19,Inactive,2002-09-22,Female,116 Main Street,Accra,Student,11,FALSE
+444,Sophia,Okafor,sophia.okafor444@library.com,+2348288987457,2018-05-24,Active,1991-11-21,Male,62 Main Street,Cairo,Regular,53,TRUE
+445,John,Okafor,john.okafor445@library.com,+2347415374698,2018-07-02,Inactive,1960-04-11,Female,77 Main Street,Cape Town,Student,69,FALSE
+446,David,Martins,david.martins446@library.com,+2348418564723,2018-06-22,Active,1973-04-07,Male,147 Main Street,Nairobi,Premium,73,TRUE
+447,Sophia,Garcia,sophia.garcia447@library.com,+2348984972134,2019-02-17,Active,1962-07-04,Male,82 Main Street,Dar es Salaam,Regular,93,TRUE
+448,Michael,Williams,michael.williams448@library.com,+2347390897665,2019-11-02,Inactive,1974-10-09,Female,165 Main Street,Kampala,Student,24,FALSE
+449,Grace,Martins,grace.martins449@library.com,+2349090144289,2020-07-13,Active,1982-12-19,Male,133 Main Street,Accra,Student,48,TRUE
+450,Mary,Garcia,mary.garcia450@library.com,+2348672013450,2022-07-21,Inactive,1966-01-20,Male,54 Main Street,Cairo,Student,70,FALSE
+451,John,Bello,john.bello451@library.com,+2347487718228,2021-10-16,Inactive,1960-02-27,Male,102 Main Street,Lagos,Student,32,FALSE
+452,Fatima,Brown,fatima.brown452@library.com,+2348177283779,2018-05-23,Inactive,1981-05-09,Female,196 Main Street,Cape Town,Student,47,FALSE
+453,James,Brown,james.brown453@library.com,+2347955965737,2020-09-05,Inactive,1981-10-04,Female,64 Main Street,Dar es Salaam,Regular,76,FALSE
+454,Michael,Okafor,michael.okafor454@library.com,+2347597390847,2020-05-06,Inactive,1974-05-28,Female,189 Main Street,Nairobi,Regular,71,FALSE
+455,Amina,Mensah,amina.mensah455@library.com,+2347209574060,2018-03-19,Inactive,1972-10-14,Male,71 Main Street,Cape Town,Student,5,FALSE
+456,David,Brown,david.brown456@library.com,+2348976487106,2020-11-16,Inactive,1991-05-17,Female,87 Main Street,Nairobi,Regular,61,FALSE
+457,Michael,Brown,michael.brown457@library.com,+2348316944478,2023-04-08,Inactive,1961-06-29,Male,56 Main Street,Cape Town,Student,79,FALSE
+458,Amina,Smith,amina.smith458@library.com,+2348830270468,2018-07-16,Inactive,2000-11-15,Female,56 Main Street,Abuja,Premium,69,FALSE
+459,Fatima,Adeyemi,fatima.adeyemi459@library.com,+2347470836222,2023-12-05,Active,1989-05-09,Female,28 Main Street,Cape Town,Premium,15,TRUE
+460,Sophia,Martins,sophia.martins460@library.com,+2348132752461,2024-12-26,Inactive,1976-03-02,Male,179 Main Street,Lagos,Regular,102,FALSE
+461,Daniel,Bello,daniel.bello461@library.com,+2347550589037,2021-03-27,Active,1961-05-16,Female,37 Main Street,Cairo,Regular,12,TRUE
+462,Sophia,Williams,sophia.williams462@library.com,+2348377794652,2024-09-09,Active,1983-02-04,Male,155 Main Street,Lagos,Student,114,TRUE
+463,David,Martins,david.martins463@library.com,+2347441690056,2024-03-17,Active,1972-08-18,Female,172 Main Street,Cape Town,Student,14,TRUE
+464,James,Bello,james.bello464@library.com,+2347079003684,2022-03-01,Active,1961-07-14,Male,22 Main Street,Abuja,Regular,83,TRUE
+465,Amina,Smith,amina.smith465@library.com,+2348007225387,2020-02-22,Inactive,1995-08-31,Female,6 Main Street,Abuja,Regular,8,FALSE
+466,Sophia,Bello,sophia.bello466@library.com,+2348990955021,2019-05-23,Inactive,1982-05-23,Male,60 Main Street,Accra,Regular,48,FALSE
+467,David,Mensah,david.mensah467@library.com,+2348898157232,2022-08-25,Inactive,1993-01-05,Female,18 Main Street,Abuja,Regular,88,FALSE
+468,Amina,Johnson,amina.johnson468@library.com,+2347706995105,2018-04-30,Inactive,1981-10-03,Female,150 Main Street,Accra,Premium,39,FALSE
+469,Mary,Martins,mary.martins469@library.com,+2347632941597,2022-01-01,Active,1979-07-07,Male,170 Main Street,Cape Town,Student,15,TRUE
+470,Michael,Mensah,michael.mensah470@library.com,+2347595681192,2022-10-12,Inactive,1960-10-04,Female,110 Main Street,Accra,Premium,108,FALSE
+471,Grace,Brown,grace.brown471@library.com,+2348082882853,2021-10-02,Active,1989-02-02,Female,82 Main Street,Dar es Salaam,Student,116,TRUE
+472,Daniel,Johnson,daniel.johnson472@library.com,+2348351536198,2023-05-22,Active,1982-07-22,Male,75 Main Street,Abuja,Premium,77,TRUE
+473,John,Smith,john.smith473@library.com,+2347096718776,2024-03-05,Active,1992-06-18,Female,123 Main Street,Abuja,Student,112,TRUE
+474,Mary,Garcia,mary.garcia474@library.com,+2347003120523,2024-02-25,Inactive,2005-02-09,Male,27 Main Street,Lagos,Regular,5,FALSE
+475,Fatima,Bello,fatima.bello475@library.com,+2347174775669,2019-01-20,Inactive,1984-05-31,Male,17 Main Street,Kampala,Regular,77,FALSE
+476,Michael,Williams,michael.williams476@library.com,+2347199376386,2018-03-02,Inactive,1972-03-08,Male,34 Main Street,Cape Town,Regular,81,FALSE
+477,Sophia,Brown,sophia.brown477@library.com,+2348506479752,2018-06-26,Active,1994-10-20,Male,87 Main Street,Lagos,Premium,97,TRUE
+478,Fatima,Adeyemi,fatima.adeyemi478@library.com,+2348415596989,2019-05-30,Active,1981-05-27,Male,180 Main Street,Accra,Premium,37,TRUE
+479,James,Williams,james.williams479@library.com,+2347413060658,2024-08-15,Inactive,1974-07-17,Female,108 Main Street,Dar es Salaam,Regular,41,FALSE
+480,Amina,Brown,amina.brown480@library.com,+2348131193217,2023-04-03,Active,1976-03-17,Male,168 Main Street,Kampala,Regular,58,TRUE
+481,Sophia,Brown,sophia.brown481@library.com,+2349051794466,2019-06-25,Inactive,1985-11-07,Male,181 Main Street,Kampala,Regular,16,FALSE
+482,Michael,Garcia,michael.garcia482@library.com,+2347857339614,2022-04-05,Inactive,1984-04-10,Female,101 Main Street,Kampala,Premium,33,FALSE
+483,James,Williams,james.williams483@library.com,+2348104311616,2019-06-18,Active,1968-09-22,Male,39 Main Street,Nairobi,Regular,86,TRUE
+484,Michael,Mensah,michael.mensah484@library.com,+2348288408298,2018-04-08,Active,1985-07-02,Female,122 Main Street,Abuja,Premium,57,TRUE
+485,David,Adeyemi,david.adeyemi485@library.com,+2347361249771,2021-06-13,Active,1964-03-16,Female,88 Main Street,Lagos,Student,53,TRUE
+486,Grace,Bello,grace.bello486@library.com,+2347771207907,2024-04-11,Inactive,1976-01-12,Male,107 Main Street,Dar es Salaam,Premium,29,FALSE
+487,James,Williams,james.williams487@library.com,+2348812424748,2022-01-08,Inactive,2003-05-10,Male,199 Main Street,Cairo,Regular,115,FALSE
+488,John,Adeyemi,john.adeyemi488@library.com,+2348705077315,2020-12-05,Active,1978-05-15,Female,158 Main Street,Cape Town,Student,68,TRUE
+489,Daniel,Garcia,daniel.garcia489@library.com,+2347955394896,2020-06-12,Active,2002-07-04,Female,31 Main Street,Cape Town,Premium,88,TRUE
+490,Fatima,Williams,fatima.williams490@library.com,+2347837142552,2018-01-31,Inactive,1969-06-13,Female,30 Main Street,Kampala,Student,49,FALSE
+491,Michael,Brown,michael.brown491@library.com,+2347243060424,2022-06-30,Inactive,1977-07-04,Female,18 Main Street,Nairobi,Premium,26,FALSE
+492,Grace,Smith,grace.smith492@library.com,+2348014020514,2020-11-11,Active,1992-07-22,Male,82 Main Street,Accra,Regular,110,TRUE
+493,James,Brown,james.brown493@library.com,+2348775566308,2022-05-04,Inactive,1971-05-19,Male,64 Main Street,Kampala,Regular,79,FALSE
+494,Grace,Brown,grace.brown494@library.com,+2347102311616,2024-08-03,Inactive,1967-11-13,Male,54 Main Street,Accra,Premium,75,FALSE
+495,Daniel,Garcia,daniel.garcia495@library.com,+2348770657446,2023-02-25,Inactive,2000-12-28,Male,159 Main Street,Accra,Student,39,FALSE
+496,Daniel,Brown,daniel.brown496@library.com,+2348805151685,2022-06-28,Inactive,1961-09-11,Female,20 Main Street,Cairo,Student,35,FALSE
+497,Sophia,Smith,sophia.smith497@library.com,+2348857327751,2022-02-12,Active,1998-03-08,Male,72 Main Street,Lagos,Premium,56,TRUE
+498,John,Brown,john.brown498@library.com,+2348495871493,2019-01-17,Active,1986-02-10,Female,140 Main Street,Accra,Regular,90,TRUE
+499,Michael,Adeyemi,michael.adeyemi499@library.com,+2348094951574,2019-09-05,Inactive,1991-09-05,Female,154 Main Street,Kampala,Student,44,FALSE
+500,Mary,Bello,mary.bello500@library.com,+2347867585202,2019-04-22,Inactive,1967-10-12,Male,48 Main Street,Cape Town,Student,1,FALSE
